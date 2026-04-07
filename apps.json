@@ -1,0 +1,116 @@
+{
+  "store_name": "MEmarket",
+  "last_updated": "2026-06-03",
+  "apps": [
+    {
+      "id": 1,
+      "title": "SimpleNotes",
+      "version": "1.1 SGU1",
+      "author": "SimpleSoftware (kameton.dev)",
+      "description": "Обычное приложение заметок для WindowsPhone 8 с функцией прикрепления фотографий",
+      "icon_url": "http://192.168.0.120/icons/sn.png",
+      "download_url": "http://192.168.0.120/files/SimpleNotes.xap",
+      "size": "0,6 MB",
+      "category": "Notes"
+    },
+    {
+      "id": 2,
+      "title": "SimpleTasks",
+      "version": "1.0 Release",
+      "author": "SimpleSoftware (kameton.dev)",
+      "description": "Приложение для планов и задач. отчасти повторяет некоторые функции системного Календаря, но чуть чуть круче и удобнее благодаря живым плиткам",
+      "icon_url": "http://192.168.0.120/icons/st.png",
+      "download_url": "http://192.168.0.120/files/SimpleTasks.xap",
+      "size": "0.3 MB",
+      "category": "Notes"
+    },
+    {
+      "id": 3,
+      "title": "SimpleDictaphone",
+      "version": "1.2 SGU1",
+      "author": "SimpleSoftware (kameton.dev)",
+      "description": "Простое приложение для записи звука. Можно прослушивать аудиофайлы в приложении, и, при надобности, сохранять их в папку телефона (Music/SimpleDictaphone)",
+      "icon_url": "http://192.168.0.120/icons/sd.png",
+      "download_url": "http://192.168.0.120/files/SimpleDictaphone.xap",
+      "size": "0.6 MB",
+      "category": "Utilities"
+    },
+    {
+      "id": 4,
+      "title": "Aito Browser",
+      "version": "V3",
+      "author": "ChockingNetDude",
+      "description": "Современный браузер для WindowsPhone 8.1 на базе MetroSurf.",
+      "icon_url": "http://192.168.0.120/icons/ab.png",
+      "download_url": "http://192.168.0.120/files/AitoBrowser.xap",
+      "size": "7.6 MB",
+      "category": "Net"
+    },
+    {
+      "id": 5,
+      "title": "T-Translator",
+      "version": "7.4",
+      "author": "Эугери Доманов",
+      "description": "там описание на англ мне лень переводить",
+      "icon_url": "http://192.168.0.120/icons/tt.png",
+      "download_url": "http://192.168.0.120/files/T-Translator.xap",
+      "size": "3.7 MB",
+      "category": "Utilities"
+    },
+    {
+      "id": 6,
+      "title": "ToolKit Pro",
+      "version": "",
+      "author": "CoolMedia.com",
+      "description": "Все необходимые инструменты в одном универсальном приложении: линейка, фонаик, конвертер и т. д.",
+      "icon_url": "http://192.168.0.120/icons/tp.png",
+      "download_url": "http://192.168.0.120/files/ToolKitPro.appxbundle.xap",
+      "size": "9 MB",
+      "category": "Utilities"
+    },
+    {
+      "id": 7,
+      "title": "AIDA64",
+      "version": "1.1.1.0",
+      "author": "FinalWire Ltd.",
+      "description": "Аида как аида, показывает все о вашем смартфоне",
+      "icon_url": "http://192.168.0.120/icons/a64.png",
+      "download_url": "http://192.168.0.120/files/AIDA64.appxbundle",
+      "size": "0.5 MB",
+      "category": "Utilities"
+    },
+    {
+      "id": 8,
+      "title": "OpenTracks",
+      "version": "2.0.0.1",
+      "author": "ChockingNetDude",
+      "description": "OpenTracks V2 Exploration Update| MetroUI, Explore hub is back!| Complete background play | API based | Full screen player and more..",
+      "icon_url": "http://192.168.0.120/icons/ot.png",
+      "download_url": "http://192.168.0.120/files/opentracks.appx",
+      "size": "4.2 MB",
+      "category": "Music"
+    },
+    {
+      "id": 9,
+      "title": "Hop!",
+      "version": "1.1.0.0",
+      "author": "?",
+      "description": "шарики игра круто очень скачать",
+      "icon_url": "http://192.168.0.120/icons/h.png",
+      "download_url": "http://192.168.0.120/files/Hop.appx",
+      "size": "10.3 MB",
+      "category": "Games"
+    },
+    {
+      "id": 10,
+      "title": "Dumb Ways To Die 2",
+      "version": "?",
+      "author": "Millipede",
+      "description": "хз не играл",
+      "icon_url": "http://192.168.0.120/icons/dwtd2.png",
+      "download_url": "http://192.168.0.120/files/DWTD2.appxbundle.xap",
+      "size": "23.8 MB",
+      "category": "Games"
+    }
+  ]
+}
