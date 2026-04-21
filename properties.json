@@ -4,7 +4,7 @@
   "last_updated": "2026-08-04",
   "apps": [
     {
-      "id": 1,
+      "id": "me.market",
       "title": "MEmarket",
       "version": "0.0.1.0 Public Beta",
       "author": "SimpleSoftware (kameton.dev)",
