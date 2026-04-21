@@ -9,10 +9,10 @@
       "version": "0.0.1.0 Public Beta",
       "author": "SimpleSoftware (kameton.dev)",
       "description": "Актуальная версия магазина репозиторий MEmarket будет всегда под рукой!",
-      "icon_url": "http://millenniummarket.ru/icons/sn.png",
-      "download_url": "http://millenniummarket.ru/files/SimpleNotes.xap",
-      "size": "0,6 MB",
-      "category": "Notes"
+      "icon_url": "http://millenniummarket.ru/icons/logo-memarket.png",
+      "download_url": "http://millenniummarket.ru/files/MEmarket_0.0.1.0_AnyCPU.appxbundle",
+      "size": "0,1 MB",
+      "category": "Stores"
     },
     {
       "id": 2,
