@@ -12,7 +12,7 @@
       "icon_url": "http://millenniummarket.ru/icons/logo-memarket.png",
       "download_url": "http://millenniummarket.ru/files/MEmarket_0.0.1.0_AnyCPU.appxbundle",
       "size": "0,1 MB",
-      "category": "Stores"
+      "category": "store"
     },
     {
       "id": 2,
@@ -23,7 +23,7 @@
       "icon_url": "http://millenniummarket.ru/icons/sn.png",
       "download_url": "http://millenniummarket.ru/files/SimpleNotes.xap",
       "size": "0,6 MB",
-      "category": "Notes"
+      "category": "note"
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "icon_url": "http://millenniummarket.ru/icons/st.png",
       "download_url": "http://millenniummarket.ru/files/SimpleTasks.xap",
       "size": "0.3 MB",
-      "category": "Notes"
+      "category": "note"
     },
     {
       "id": 4,
@@ -45,7 +45,7 @@
       "icon_url": "http://millenniummarket.ru/icons/sd.png",
       "download_url": "http://millenniummarket.ru/files/SimpleDictaphone.xap",
       "size": "0.6 MB",
-      "category": "Tools"
+      "category": "tools"
     },
     {
       "id": 5,
@@ -56,7 +56,7 @@
       "icon_url": "http://millenniummarket.ru/icons/ab.png",
       "download_url": "http://millenniummarket.ru/files/AitoBrowser.xap",
       "size": "7.6 MB",
-      "category": "Surfing"
+      "category": "tools"
     },
     {
       "id": 6,
@@ -67,7 +67,7 @@
       "icon_url": "http://millenniummarket.ru/icons/tt.png",
       "download_url": "http://millenniummarket.ru/files/T-Translator.xap",
       "size": "3.7 MB",
-      "category": "Tools"
+      "category": "tools"
     },
     {
       "id": 7,
@@ -78,7 +78,7 @@
       "icon_url": "http://millenniummarket.ru/icons/tp.png",
       "download_url": "http://millenniummarket.ru/files/ToolKitPro.appxbundle.xap",
       "size": "9 MB",
-      "category": "Tools"
+      "category": "tools"
     },
     {
       "id": 8,
@@ -89,7 +89,7 @@
       "icon_url": "http://millenniummarket.ru/icons/a64.png",
       "download_url": "http://millenniummarket.ru/files/AIDA64.appxbundle",
       "size": "0.5 MB",
-      "category": "Tools"
+      "category": "tools"
     },
     {
       "id": 9,
@@ -100,7 +100,7 @@
       "icon_url": "http://millenniummarket.ru/icons/ot.png",
       "download_url": "http://millenniummarket.ru/files/opentracks.appx",
       "size": "4.2 MB",
-      "category": "Music+video"
+      "category": "music+video"
     },
     {
       "id": 10,
@@ -111,7 +111,7 @@
       "icon_url": "http://millenniummarket.ru/icons/h.png",
       "download_url": "http://millenniummarket.ru/files/Hop.appx",
       "size": "10.3 MB",
-      "category": "Games"
+      "category": "games"
     },
     {
       "id": 11,
@@ -122,7 +122,7 @@
       "icon_url": "http://millenniummarket.ru/icons/dwtd2.png",
       "download_url": "http://millenniummarket.ru/files/DWTD2.appxbundle.xap",
       "size": "23.8 MB",
-      "category": "Games"
+      "category": "games"
     }
   ]
 }
