@@ -1,16 +1,16 @@
 {
   "repo_name": "MEmarket basic",
   "creator": "kameton.dev",
-  "last_updated": "2026-08-04",
+  "last_updated": "22-04-2026",
   "apps": [
     {
       "id": "me.market",
       "title": "MEmarket",
-      "version": "0.0.1.0 Public Beta",
+      "version": "0.0.1.1 Public Beta",
       "author": "SimpleSoftware (kameton.dev)",
       "description": "Актуальная версия магазина репозиторий MEmarket будет всегда под рукой!",
       "icon_url": "http://millenniummarket.ru/icons/logo-memarket.png",
-      "download_url": "http://millenniummarket.ru/files/MEmarket_0.0.1.0_AnyCPU.appxbundle",
+      "download_url": "http://millenniummarket.ru/files/MEmarket_0.0.1.1_AnyCPU.appxbundle",
       "size": "0,1 MB",
       "category": "store"
     },
