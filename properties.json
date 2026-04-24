@@ -26,7 +26,7 @@
       "category": "store"
     },
     {
-      "id": 2,
+      "id": "simple.notes",
       "title": "SimpleNotes",
       "version": "1.1 SGU1",
       "author": "SimpleSoftware (kameton.dev)",
@@ -37,7 +37,7 @@
       "category": "note"
     },
     {
-      "id": 3,
+      "id": "simple.tasks",
       "title": "SimpleTasks",
       "version": "1.0 Release",
       "author": "SimpleSoftware (kameton.dev)",
@@ -48,7 +48,7 @@
       "category": "note"
     },
     {
-      "id": 4,
+      "id": "simple.dicta",
       "title": "SimpleDictaphone",
       "version": "1.2 SGU1",
       "author": "SimpleSoftware (kameton.dev)",
@@ -59,7 +59,7 @@
       "category": "tools"
     },
     {
-      "id": 5,
+      "id": "8net.aito",
       "title": "Aito Browser",
       "version": "V3",
       "author": "ChockingNetDude",
@@ -70,7 +70,7 @@
       "category": "tools"
     },
     {
-      "id": 6,
+      "id": "t.translator",
       "title": "T-Translator",
       "version": "7.4",
       "author": "Eugery Domanov",
@@ -81,7 +81,7 @@
       "category": "tools"
     },
     {
-      "id": 7,
+      "id": "pro.toolkit",
       "title": "ToolKit Pro",
       "version": "",
       "author": "CoolMedia.com",
@@ -92,7 +92,7 @@
       "category": "tools"
     },
     {
-      "id": 8,
+      "id": "aida64",
       "title": "AIDA64",
       "version": "1.1.1.0",
       "author": "FinalWire Ltd.",
@@ -103,7 +103,7 @@
       "category": "tools"
     },
     {
-      "id": 9,
+      "id": "8net.opentracks",
       "title": "OpenTracks",
       "version": "2.0.0.1",
       "author": "ChockingNetDude",
@@ -114,7 +114,7 @@
       "category": "music+video"
     },
     {
-      "id": 10,
+      "id": "com.hop",
       "title": "Hop!",
       "version": "1.1.0.0",
       "author": "?",
@@ -125,7 +125,7 @@
       "category": "games"
     },
     {
-      "id": 11,
+      "id": "com.dumbwaustodie",
       "title": "Dumb Ways To Die 2",
       "version": "?",
       "author": "Millipede",
