@@ -1,10 +1,12 @@
 # Creating Your Own Repository for MEmarket
-Lya-la-la, I'm Semyon Lobanov. This is a guide on how to create your own repository for the great MEmarket. If you plan to host your repo on GitHub, you can fork it.
+This is a guide on how to create your own repository for the great MEmarket. If you plan to host your repo on GitHub, you can fork it.
 
 ## List of current repositories:
 ```MEmarket basic - http://millenniummarket.ru/properties.json```
 
 ```Win10Markt - http://markt.hotsamsa.top/properties.json```
+
+```LegacyProjects WP8 - https://dvltvv.github.io/legacyprojects-wp8/properties.json```
 
 ## Hosting
 You can host the repository on your own server or on GitHub; it doesn't really matter. Just a few things:
@@ -17,15 +19,15 @@ Generally, the application structure here is not strict. That is, you can create
 example-repo/
 ├── apps/
 │     ├── app.example/
-│     │    ├── app1.xap (или .appx)
-│     │    ├── app2.xap (или .appx)
+│     │    ├── app1.xap (or .appx)
+│     │    ├── app2.xap (or .appx)
 │     │    └── app-icon.png
 │     └── game.example/
-│          ├── game1.xap (или .appx)
+│          ├── game1.xap (or .appx)
 │          ├── game-icon.png
 │          ├── screen1.png
 │          └── screen2.png
-└── properties.json        <-- Главный индексный файл
+└── properties.json        <-- Main index file
 ```
 
 > [!TIP]
@@ -46,7 +48,7 @@ The most important part of the repository. This is where things get much more st
       "id": "app.example",
       "base_url": "http://domain.com/apps/app.example/",
       "title": "App Name",
-      "screenshots": ["1.png", "2.png", "3.png", "4.png"],
+      "screenshots": [],
       "author": "Dev Name",
       "description": "App Description",
       "icon_url": "app1-icon.png",
@@ -67,9 +69,9 @@ The most important part of the repository. This is where things get much more st
       "id": "com.example.game",
       "base_url": "http://domain.com/apps/game.example/",
       "title": "Game Name",
-      "screenshots": [],
-      "author": "Вася пупкин"
-      "description": "ляляля",
+      "screenshots": ["screen1.png", "screen2.png"],
+      "author": "John Doe"
+      "description": "xddcc",
       "icon_url": "game1-icon.png",
       "size": "1488 MB",
       "category": "game",
@@ -87,6 +89,7 @@ The most important part of the repository. This is where things get much more st
 | repo_name | The name of your store, which the user will see in the repository settings |
 | id | The app identifier. Must be unique, without 1 2 3 4 5 |
 | apps | List of objects with app data |
+| base_url | App directory path for logo and screenshots |
 | download_url | **Direct** link to the file. Needed for retrieving and downloading the file |
 | size | File size (for user information. If you can do funny things there, I allow mocking) |
 | versions | If you want to download different versions of the same app, use this field |

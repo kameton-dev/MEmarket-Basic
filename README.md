@@ -1,4 +1,4 @@
-For the english version, click [here](https://github.com/kameton-dev/MEmarket-Basic/README.en).
+For the english version, click [here](https://github.com/kameton-dev/MEmarket-Basic/blob/main/README-en.md).
 
 # Создание своего собственного репозитория для MEmarket
 ляляля я семён лобанов. это гайд как создать собственный репозиторий для великого MEmarket. если вы планируете хостить свой репо через гитхаб, можете сделать форк
@@ -7,6 +7,8 @@ For the english version, click [here](https://github.com/kameton-dev/MEmarket-Ba
 ```MEmarket basic - http://millenniummarket.ru/properties.json```
 
 ```Win10Markt - http://markt.hotsamsa.top/properties.json```
+
+```LegacyProjects WP8 - https://dvltvv.github.io/legacyprojects-wp8/properties.json```
 
 ## Хостинг
 Можете хостить репозиторий хоть на своем сервере, хоть в гитхабе, особого значения не имеет. Разве что:
@@ -47,7 +49,7 @@ example-repo/
       "id": "app.example",
       "base_url": "http://domain.com/apps/app.example/",
       "title": "App Name",
-      "screenshots": ["1.png", "2.png", "3.png", "4.png"],
+      "screenshots": [],
       "author": "Dev Name",
       "description": "App Description",
       "icon_url": "app1-icon.png",
@@ -68,7 +70,7 @@ example-repo/
       "id": "com.example.game",
       "base_url": "http://domain.com/apps/game.example/",
       "title": "Game Name",
-      "screenshots": [],
+      "screenshots": ["screen1.png", "screen2.png"],
       "author": "Вася пупкин"
       "description": "ляляля",
       "icon_url": "game1-icon.png",
@@ -87,6 +89,7 @@ example-repo/
 | repo_name | Название вашего магазина, которое увидит пользователь в настройках репозиторий |
 | id | Идентефикатор приложения. Должен быть индивидуален, без 1 2 3 4 5 |
 | apps | Список объектов с данными о приложениях |
+| base_url | путь к папке приложения для лого и скриншотов |
 | download_url | **Прямая** ссылка на файл. Нужна для получения и скачивания файла |
 | size | Вес файла (для информирования пользователя. если что можете приколы там делать, я мока разрешаю) |
 | versions | Если вы хотите загрузить разные версии одного приложения, используйте это поле |
