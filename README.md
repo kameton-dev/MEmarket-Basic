@@ -1,3 +1,5 @@
+For the english version, click [here](https://github.com/kameton-dev/MEmarket-Basic/README.en).
+
 # Создание своего собственного репозитория для MEmarket
 ляляля я семён лобанов. это гайд как создать собственный репозиторий для великого MEmarket. если вы планируете хостить свой репо через гитхаб, можете сделать форк
 
