@@ -70,15 +70,23 @@
     {
       "id": "8net.aito",
       "base_url": "http://millenniummarket.ru/apps/8net.aito/",
-      "title": "Aito Browser",
-      "screenshots": [],
+      "title": "Aito Mobile Browser",
+      "screenshots": ["1.png", "2.png", "3.png"],
       "author": "ChockingNetDude",
       "description": "Современный браузер для WindowsPhone 8.1 на базе MetroSurf.",
       "icon_url": "ab.png",
       "size": "7.6 MB",
       "category": "tools",
-      "version": "V3",
-      "download_url": "http://millenniummarket.ru/apps/8net.aito/AitoBrowser.xap"
+      "versions": [
+        {
+          "version": "V3",
+          "download_url": "http://millenniummarket.ru/apps/8net.aito/AitoBrowser.xap"
+        },
+        {
+          "version": "V6",
+          "download_url": "http://millenniummarket.ru/apps/8net.aito/Aito_Mobile_V6.xap"
+        }
+      ]
     },
     {
       "id": "t.translator",
@@ -157,6 +165,19 @@
       "category": "games",
       "version": "?",
       "download_url": "http://millenniummarket.ru/apps/game.dumbwaystodie2/DWTD2.appxbundle.xap"
+    },
+    {
+      "id": "game.crossyroad",
+      "base_url": "http://millenniummarket.ru/apps/game.crossyroad/",
+      "title": "Crossy Road",
+      "screenshots": [],
+      "author": "Hipster Whale",
+      "description": "Crossy Road — это бесконечная онлайн-аркадная игра, в которой вы должны безопасно провести цыпленка через дороги, железные дороги и реки. Продолжайте движение, чтобы набрать как можно больше очков!",
+      "icon_url": "dwtd2.png",
+      "size": "33.5 MB",
+      "category": "games",
+      "version": "1.2.0.0",
+      "download_url": "http://millenniummarket.ru/apps/game.crossyroad/CrossyRoad_1.2.0.0_arm.appxbundle"
     }
   ]
 }
