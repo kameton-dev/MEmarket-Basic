@@ -82,29 +82,53 @@ The most important part of the repository. This is where things get much more st
 }
 
 ```
-
-### Field Descriptions:
+### Repository field descriptions:
 | Field | Description |
 |---|---|
-| repo_name | The name of your store, which the user will see in the repository settings |
-| id | The app identifier. Must be unique, without 1 2 3 4 5 |
-| apps | List of objects with app data |
-| base_url | App directory path for logo and screenshots |
-| download_url | **Direct** link to the file. Needed for retrieving and downloading the file |
-| size | File size (for user information. If you can do funny things there, I allow mocking) |
-| versions | If you want to download different versions of the same app, use this field |
-| version | If the app has one version, use the versions field |
+| repo_name | The name of your store, which will be visible to the user in the repository settings |
+| creator | Your nickname as the repository creator |
+| last_updated | Date of the last repository update |
+| apps | List of objects with application data |
+
+### "apps" array description:
+| Field | Description |
+|---|---|
+| id | Unique application identifier |
+| base_url | Base path to the application data folder. This should contain the icon, file, and screenshots |
+| title | Application name |
+| screenshots | A list of screenshot names in the base_url folder for the application, in order. If none are present, you can leave this field blank: [] |
+| author | Creator of this application |
+| description | Application description |
+| icon_url | Name of the app icon in the base_url folder |
+| size | File size (for user information. If you can do anything funny there, I'll allow it for now) |
+| category | A suitable category name for the app / a category from the list below |
+| version | App version |
+| download_url | **Direct** link to the file. Needed to retrieve and download the file |
+
+>[!NOTE]
+>If you want to download multiple versions of the same app, use the "versions" field.
+
+### Description of "versions"
+| Field | Description |
+|---|---|
+| version | Name of this app version |
+| download_url | **Direct** link to the file for this version |
 
 ### List of currently sortable categories:
 | "category": "..." | Name |
 |---|---|
 | "games" | Games |
+| "store" | Alt app stores |
 | "entertainment" | Entertainment |
 | "music+video" | Music + Video |
 | "tools" | Tools |
 | "livestyle" | Lifestyle |
 | "news+weather" | News + Weather |
+| "health+fitness" | Health + Fitness |
+| "photo" | Photo |
 | "social" | Social |
+| "sports" | Sports |
+| "business" | Business |
 | "education" | Education |
 
 >[!NOTE]
