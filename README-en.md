@@ -8,10 +8,12 @@ This is a guide on how to create your own repository for the great MEmarket. If 
 
 ```LegacyProjects WP8 - https://dvltvv.github.io/legacyprojects-wp8/properties.json```
 
+```ReOpen Market - https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/refs/heads/main/properties.json ```
+
 ## Hosting
 You can host the repository on your own server or on GitHub; it doesn't really matter. Just a few things:
 >[!NOTE]
->It's recommended to host your server using the http:// protocol. However, it works fine with https as well.
+>It's recommended to host your server using the http:// protocol for best performance with the WP8.1 client. However, it works fine with https as well.
 
 ## 📂 Repository Structure
 Generally, the application structure here is not strict. That is, you can create folders of any name. But for this example, I'll use my own structure:
@@ -23,7 +25,7 @@ example-repo/
 │     │    ├── app2.xap (or .appx)
 │     │    └── app-icon.png
 │     └── game.example/
-│          ├── game1.xap (or .appx)
+│          ├── game1.appx
 │          ├── game-icon.png
 │          ├── screen1.png
 │          └── screen2.png
@@ -43,10 +45,12 @@ The most important part of the repository. This is where things get much more st
   "repo_name": "Example Repo",
   "creator": "Repo Developer's Nickname",
   "last_updated": "2026-04-15",
+  "supported_os": ["WP8.1", "W10M"],
   "apps": [
     {
       "id": "app.example",
       "base_url": "http://domain.com/apps/app.example/",
+      "os": "WP8.1",
       "title": "App Name",
       "screenshots": [],
       "author": "Dev Name",
@@ -68,15 +72,16 @@ The most important part of the repository. This is where things get much more st
     {
       "id": "com.example.game",
       "base_url": "http://domain.com/apps/game.example/",
+      "os": "W10M",
       "title": "Game Name",
       "screenshots": ["screen1.png", "screen2.png"],
-      "author": "John Doe"
-      "description": "xddcc",
+      "author": "Вася пупкин"
+      "description": "ляляля",
       "icon_url": "game1-icon.png",
       "size": "1488 MB",
       "category": "game",
       "version": "0.9b",
-      "download_url": "https://domain.com/files/game1.xap"
+      "download_url": "https://domain.com/files/game1.appx"
     }
   ]
 }
@@ -88,6 +93,7 @@ The most important part of the repository. This is where things get much more st
 | repo_name | The name of your store, which will be visible to the user in the repository settings |
 | creator | Your nickname as the repository creator |
 | last_updated | Date of the last repository update |
+| supported_os | Supported OS repositories: **Only WP8.1 and W10M are currently shown in clients** |
 | apps | List of objects with application data |
 
 ### "apps" array description:
@@ -95,6 +101,7 @@ The most important part of the repository. This is where things get much more st
 |---|---|
 | id | Unique application identifier |
 | base_url | Base path to the application data folder. This should contain the icon, file, and screenshots |
+| os | Application OS: W10M or WP8.1 |
 | title | Application name |
 | screenshots | A list of screenshot names in the base_url folder for the application, in order. If none are present, you can leave this field blank: [] |
 | author | Creator of this application |

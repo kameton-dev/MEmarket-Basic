@@ -10,10 +10,12 @@ For the english version, click [here](https://github.com/kameton-dev/MEmarket-Ba
 
 ```LegacyProjects WP8 - https://dvltvv.github.io/legacyprojects-wp8/properties.json```
 
+```ReOpen Market - https://raw.githubusercontent.com/OpenGlebsur/WP8-MEMarketRepo/refs/heads/main/properties.json ```
+
 ## Хостинг
 Можете хостить репозиторий хоть на своем сервере, хоть в гитхабе, особого значения не имеет. Разве что:
 >[!NOTE]
->Рекомендуется размещать свой сервер по протоколу http://. Но с https оно тоже норм работает
+>Рекомендуется размещать свой сервер по протоколу http:// для лучшей работы с клиентом под WP8.1. Но с https оно тоже норм работает
 
 ## 📂 Структура репозитория
 Вообще, структура для прилодения тут не строгая. То есть, вы можете создавать папки любых наименований. Но в пример я буду писать свою придуманную структуру:
@@ -25,7 +27,7 @@ example-repo/
 │     │    ├── app2.xap (или .appx)
 │     │    └── app-icon.png
 │     └── game.example/
-│          ├── game1.xap (или .appx)
+│          ├── game1.appx
 │          ├── game-icon.png
 │          ├── screen1.png
 │          └── screen2.png
@@ -44,10 +46,12 @@ example-repo/
   "repo_name": "Example Repo",
   "creator": "Repo Developer's Nickname",
   "last_updated": "2026-04-15",
+  "supported_os": ["WP8.1", "W10M"],
   "apps": [
     {
       "id": "app.example",
       "base_url": "http://domain.com/apps/app.example/",
+      "os": "WP8.1",
       "title": "App Name",
       "screenshots": [],
       "author": "Dev Name",
@@ -69,6 +73,7 @@ example-repo/
     {
       "id": "com.example.game",
       "base_url": "http://domain.com/apps/game.example/",
+      "os": "W10M",
       "title": "Game Name",
       "screenshots": ["screen1.png", "screen2.png"],
       "author": "Вася пупкин"
@@ -77,7 +82,7 @@ example-repo/
       "size": "1488 MB",
       "category": "game",
       "version": "0.9b",
-      "download_url": "https://domain.com/files/game1.xap"
+      "download_url": "https://domain.com/files/game1.appx"
     }
   ]
 }
@@ -88,7 +93,8 @@ example-repo/
 |---|---|
 | repo_name | Название вашего магазина, которое увидит пользователь в настройках репозиторий |
 | creator | Ваш никнейм как создателя репозитория |
-| last_updated | дата последнего апдейта репозитория |
+| last_updated | Дата последнего апдейта репозитория |
+| supported_os | Поддерживаемые ОС репозитория: **В клиентах пока показываются только WP8.1 и W10M** |
 | apps | Список объектов с данными о приложениях |
 
 ### Описание массива "apps":
@@ -96,8 +102,9 @@ example-repo/
 |---|---|
 | id | Уникальный идентификатор приложения |
 | base_url | Базовый путь к папке с данными о приложении. Там должны храниться иконка, файл и скриншоты |
+| os | ОС приложения: W10M или WP8.1 |
 | title | Название приложения |
-| screenshots | перечисление по порядку названий скриншотов из папки base_url к приложению. Если их нет, можете отсавить поле пустым: [] |
+| screenshots | Перечисление по порядку названий скриншотов из папки base_url к приложению. Если их нет, можете отсавить поле пустым: [ ] |
 | author | Создатель данного приложения |
 | description | Описание приложения |
 | icon_url | Название иконки приложения в папке base_url |
@@ -106,7 +113,7 @@ example-repo/
 | version | Версия приложения |
 | download_url | **Прямая** ссылка на файл. Нужна для получения и скачивания файла |
 
->[!NOTE]
+>[!TIP]
 >Если вы хотите загрузить несколько версий одного приложения, используйте поле "versions".
 
 ### Описание "versions"

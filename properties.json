@@ -1,11 +1,13 @@
 {
   "repo_name": "MEmarket basic",
   "creator": "kameton.dev",
-  "last_updated": "30.04.2026",
+  "last_updated": "12.05.2026",
+  "supported_os": ["WP8.1"],
   "apps": [
     {
       "id": "me.market",
       "base_url": "http://millenniummarket.ru/apps/me.market/",
+      "os": "WP8.1",
       "title": "MEmarket",
       "screenshots": ["1.png", "2.png", "3.png", "4.png"],
       "author": "SimpleSoftware (kameton.dev)",
@@ -35,6 +37,7 @@
     {
       "id": "simple.notes",
       "base_url": "http://millenniummarket.ru/apps/simple.notes/",
+      "os": "WP8.1",
       "title": "SimpleNotes",
       "screenshots": [],
       "author": "SimpleSoftware (kameton.dev)",
@@ -48,6 +51,7 @@
     {
       "id": "simple.tasks",
       "base_url": "http://millenniummarket.ru/apps/simple.tasks/",
+      "os": "WP8.1",
       "title": "SimpleTasks",
       "screenshots": [],
       "author": "SimpleSoftware (kameton.dev)",
@@ -61,6 +65,7 @@
     {
       "id": "simple.dicta",
       "base_url": "http://millenniummarket.ru/apps/simple.dicta/",
+      "os": "WP8.1",
       "title": "SimpleDictaphone",
       "screenshots": [],
       "author": "SimpleSoftware (kameton.dev)",
@@ -74,6 +79,7 @@
     {
       "id": "8net.aito",
       "base_url": "http://millenniummarket.ru/apps/8net.aito/",
+      "os": "WP8.1",
       "title": "Aito Mobile Browser",
       "screenshots": ["1.png", "2.png", "3.png"],
       "author": "ChockingNetDude",
@@ -95,6 +101,7 @@
     {
       "id": "t.translator",
       "base_url": "http://millenniummarket.ru/apps/t.translator/",
+      "os": "WP8.1",
       "title": "T-Translator",
       "screenshots": [],
       "author": "Eugery Domanov",
@@ -108,6 +115,7 @@
     {
       "id": "toolkit.pro",
       "base_url": "http://millenniummarket.ru/apps/toolkit.pro/",
+      "os": "WP8.1",
       "title": "ToolKit Pro",
       "screenshots": [],
       "author": "CoolMedia.com",
@@ -121,6 +129,7 @@
     {
       "id": "aida64",
       "base_url": "http://millenniummarket.ru/apps/aida64/",
+      "os": "WP8.1",
       "title": "AIDA64",
       "screenshots": [],
       "author": "FinalWire Ltd.",
@@ -134,6 +143,7 @@
     {
       "id": "8net.opentracks",
       "base_url": "http://millenniummarket.ru/apps/8net.opentracks/",
+      "os": "WP8.1",
       "title": "OpenTracks",
       "screenshots": [],
       "author": "ChockingNetDude",
@@ -147,6 +157,7 @@
     {
       "id": "game.hop",
       "base_url": "http://millenniummarket.ru/apps/game.hop/",
+      "os": "WP8.1",
       "title": "Hop!",
       "screenshots": [],
       "author": "?",
@@ -160,6 +171,7 @@
     {
       "id": "game.dumbwaystodie2",
       "base_url": "http://millenniummarket.ru/apps/game.dumbwaystodie2/",
+      "os": "WP8.1",
       "title": "Dumb Ways To Die 2",
       "screenshots": [],
       "author": "Millipede",
@@ -173,6 +185,7 @@
     {
       "id": "game.crossyroad",
       "base_url": "http://millenniummarket.ru/apps/game.crossyroad/",
+      "os": "WP8.1",
       "title": "Crossy Road",
       "screenshots": [],
       "author": "Hipster Whale",
