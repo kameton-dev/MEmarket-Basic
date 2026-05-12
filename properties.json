@@ -2,16 +2,16 @@
   "repo_name": "MEmarket basic",
   "creator": "kameton.dev",
   "last_updated": "12.05.2026",
-  "supported_os": ["WP8.1"],
+  "supported_os": ["WP8.1", "W10M"],
   "apps": [
     {
-      "id": "me.market",
+      "id": "me.market.wp8",
       "base_url": "http://millenniummarket.ru/apps/me.market/",
       "os": "WP8.1",
-      "title": "MEmarket",
+      "title": "MEmarket (WinRT)",
       "screenshots": ["1.png", "2.png", "3.png", "4.png"],
       "author": "SimpleSoftware (kameton.dev)",
-      "description": "Актуальная версия магазина репозиторий MEmarket будет всегда под рукой!",
+      "description": "Актуальная версия клиента магазина репозиторий MEmarket для Windows Phone 8.1 будет всегда под рукой!",
       "icon_url": "logo-memarket.png",
       "size": "0,1 MB",
       "category": "store",
@@ -33,6 +33,20 @@
             "download_url": "http://millenniummarket.ru/apps/me.market/MEmarket_0.0.1.3_AnyCPU.appxbundle"
         }
       ]
+    },
+    {
+      "id": "me.market.w10m",
+      "base_url": "http://millenniummarket.ru/apps/me.market.w10m/",
+      "os": "W10M",
+      "title": "MEmarket (UWP)",
+      "screenshots": ["1.png", "2.png", "3.png", "4.png"],
+      "author": "SimpleSoftware (kameton.dev)",
+      "description": "Актуальная версия клиента магазина репозиторий MEmarket для Windows 10 Mobile будет всегда под рукой!",
+      "icon_url": "logo-memarket.png",
+      "size": "1 MB",
+      "category": "store",
+      "version": "0.0.1.0 Public Beta",
+      "download_url": "http://millenniummarket.ru/apps/me.market.w10m/MEmarket-UWP_0.0.1.0_x86_arm.appxbundle"
     },
     {
       "id": "simple.notes",
