@@ -8,7 +8,7 @@
       "id": "me.market.wp8",
       "base_url": "http://millenniummarket.ru/apps/me.market.wp8/",
       "os": "WP8.1",
-      "title": "MEmarket (WinRT)",
+      "title": "MEmarket [WP8.1]",
       "screenshots": ["1.png", "2.png", "3.png", "4.png"],
       "author": "SimpleSoftware (kameton.dev)",
       "description": "Актуальная версия клиента магазина репозиторий MEmarket для Windows Phone 8.1 будет всегда под рукой!",
@@ -16,18 +16,6 @@
       "size": "0,1 MB",
       "category": "store",
       "versions": [
-        {
-            "version": "0.0.1.0 Public Beta",
-            "download_url": "http://millenniummarket.ru/apps/me.market.wp8/MEmarket_0.0.1.0_AnyCPU.appxbundle"
-        },
-        {
-            "version": "0.0.1.1 Public Beta",
-            "download_url": "http://millenniummarket.ru/apps/me.market.wp8/MEmarket_0.0.1.1_AnyCPU.appxbundle"
-        },
-        {
-            "version": "0.0.1.2 Public Beta",
-            "download_url": "http://millenniummarket.ru/apps/me.market.wp8/MEmarket_0.0.1.2_AnyCPU.appxbundle"
-        },
         {
             "version": "0.0.1.3 Public Beta",
             "download_url": "http://millenniummarket.ru/apps/me.market.wp8/MEmarket_0.0.1.3_AnyCPU.appxbundle"
@@ -42,15 +30,24 @@
       "id": "me.market.w10m",
       "base_url": "http://millenniummarket.ru/apps/me.market.w10m/",
       "os": "W10M",
-      "title": "MEmarket (UWP)",
+      "min_ver": "1703",
+      "title": "MEmarket [W10M]",
       "screenshots": ["1.png", "2.png", "3.png", "4.png"],
       "author": "SimpleSoftware (kameton.dev)",
-      "description": "Актуальная версия клиента магазина репозиторий MEmarket для Windows 10 Mobile будет всегда под рукой!",
+      "description": "Актуальная версия клиента магазина репозиторий MEmarket для Windows 10 Mobile будет всегда под рукой! ",
       "icon_url": "logo-memarket.png",
       "size": "1 MB",
       "category": "store",
-      "version": "0.0.1.0 Public Beta",
-      "download_url": "http://millenniummarket.ru/apps/me.market.w10m/MEmarket-UWP_0.0.1.0_x86_arm.appxbundle"
+      "versions": [
+        {
+            "version": "0.0.1.0 Public Beta",
+            "download_url": "http://millenniummarket.ru/apps/me.market.w10m/MEmarket-UWP_0.0.1.0_x86_arm.appxbundle"
+        },
+        {
+            "version": "0.0.2.0 Public Beta",
+            "download_url": "http://millenniummarket.ru/apps/me.market.w10m/MEmarket-UWP_0.0.2.0_x86_arm.appxbundle"
+        }
+      ]
     },
     {
       "id": "simple.notes",
@@ -232,6 +229,7 @@
       "id": "bluesky.browser",
       "base_url": "http://millenniummarket.ru/apps/bluesky.browser/",
       "os": "W10M",
+      "min_ver": "1703",
       "title": "Bluesky Browser",
       "screenshots": [],
       "author": "Guilherme Thomazelli",
@@ -255,6 +253,36 @@
       "category": "social",
       "version": "1.0 Release",
       "download_url": "http://millenniummarket.ru/apps/o.vk/OpenVK_1.0.16.0_arm.appxbundle"
+    },
+    {
+      "id": "microslop.outlook",
+      "base_url": "http://millenniummarket.ru/apps/microslop.outlook/",
+      "os": "W10M",
+      "min_ver": "1703",
+      "title": "Outlook",
+      "screenshots": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png"],
+      "author": "AjayAnandrao (https://t.me/AjayAnandrao)",
+      "description": "A full-fledged third-party email client for Microsoft Outlook. It allows you to perform all the basic operations with your Microsoft email. The email client can send messages with attachments and display your messages correctly.",
+      "icon_url": "logo.png",
+      "size": "25.2 MB",
+      "category": "social",
+      "version": "1.0.0.0",
+      "download_url": "http://millenniummarket.ru/apps/microslop.outlook/Outlook v.1.0.0.0.appxbundle"
+    },
+    {
+      "id": "microslop.onedrive",
+      "base_url": "http://millenniummarket.ru/apps/microslop.onedrive/",
+      "os": "W10M",
+      "min_ver": "1703",
+      "title": "OneDrive",
+      "screenshots": ["1.png", "2.png", "3.png", "4.png"],
+      "author": "AjayAnandrao (https://t.me/AjayAnandrao)",
+      "description": "Сторонний клиент OneDrive. Минусы: не умеет автоматически синхронизировать фото и другие медиа в облако",
+      "icon_url": "logo.png",
+      "size": "19.1 MB",
+      "category": "tools",
+      "version": "1.0.1.0",
+      "download_url": "http://millenniummarket.ru/apps/microslop.onedrive/OneDrive v.1.0.1.0.appxbundle"
     }
   ]
 }
