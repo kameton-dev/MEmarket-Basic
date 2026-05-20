@@ -92,6 +92,35 @@
       "download_url": "http://millenniummarket.ru/apps/simple.dicta/SimpleDictaphone_1.2_SGU1.xap"
     },
     {
+      "id": "cmd.ing.wp8",
+      "base_url": "http://millenniummarket.ru/apps/cmd.ing.wp8/",
+      "os": "WP8.1",
+      "title": "CMD Injector [WP8.1]",
+      "screenshots": [],
+      "author": "fadilfadz01",
+      "description": "Командная строка для Windows Phone 8.",
+      "icon_url": "logo.png",
+      "size": "7.25 MB",
+      "category": "tools",
+      "version": "1.3.0.0",
+      "download_url": "http://millenniummarket.ru/apps/cmd.ing.wp8/CMDInjector_WP8_v1.3.0.0_Release_ARM.xap"
+    },
+    {
+      "id": "cmd.ing.w10m",
+      "base_url": "http://millenniummarket.ru/apps/cmd.ing.w10m/",
+      "os": "W10M",
+      "min_ver": "1507 (10240)",
+      "title": "CMD Injector [W10M]",
+      "screenshots": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png"],
+      "author": "fadilfadz01",
+      "description": "Командная строка для Windows 10 Mobile.",
+      "icon_url": "logo.png",
+      "size": "61.6 MB",
+      "category": "tools",
+      "version": "4.0.6.0",
+      "download_url": "http://millenniummarket.ru/apps/cmd.ing.w10m/CMDInjector_4.0.6.0_ARM.appx"
+    },
+    {
       "id": "8net.aito",
       "base_url": "http://millenniummarket.ru/apps/8net.aito/",
       "os": "WP8.1",
