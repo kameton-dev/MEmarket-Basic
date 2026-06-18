@@ -1,0 +1,24 @@
+{
+  "id": "{958aab8a-b108-4c2e-8c87-deb9d0c5c640}",
+  "title": "SimpleNotes",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_SENSORS",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "1.0.0.0",
+      "app_file": "SimpleNotes.xap"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/simple.notes/",
+  "description": "Обычное приложение заметок для WindowsPhone 8 с функцией прикрепления фотографий",
+  "summary": "Простое приложение заметок",
+  "creator": "kameton.dev",
+  "category": "tools"
+}

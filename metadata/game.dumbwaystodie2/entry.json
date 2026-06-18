@@ -1,0 +1,23 @@
+{
+  "id": "{67ef3bcb-28e7-427c-a3dc-fa7ac39d2138}",
+  "title": "Dumb Ways To Die 2: The Games",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_SENSORS",
+    "ID_CAP_NETWORKING",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_IDENTITY_DEVICE"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "1.1.0.0",
+      "app_file": "DWTD2.appxbundle.xap"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/game.dumbwaystodie2/",
+  "description": "Dumb Ways 2 — это целый набор новых немых персонажей, которые собрались, чтобы принять участие в новой, крупной игре. Всего 28 экшн мини-игр и попытайся остаться в живых достаточно долго, чтобы получить высокий балл и разблокировать все персонажи.",
+  "summary": "Игра",
+  "creator": "Millipede",
+  "category": "games"
+}

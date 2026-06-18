@@ -1,0 +1,23 @@
+{
+  "id": "FinalWire.AIDA64",
+  "title": "AIDA64",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClientServer",
+    "removableStorage",
+    "webcam",
+    "bluetooth.rfcomm"
+  ],
+  "app_type": "winrt",
+  "versions": [
+    {
+      "version": "1.1.1.0",
+      "app_file": "AIDA64.appxbundle"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/aida64/",
+  "description": "AIDA64 — приложение для профилирования и тестирования производительности системы, диагностики и аудита, разработанное венгерской компанией FinalWire Ltd для операционных систем Windows, Android, iOS, ChromeOS, Sailfish OS, Windows Phone, Ubuntu Touch и Tizen.",
+  "creator": "FinalWire Ltd.",
+  "summary": "Утилита для просмотра спецификации смартфона и системы",
+  "category": "tools"
+}

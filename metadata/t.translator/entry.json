@@ -1,0 +1,25 @@
+{
+  "id": "{47119617-2ee7-4b8e-ae3f-9a661b646499}",
+  "title": "T-Translator",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_IDENTITY_DEVICE",
+    "ID_CAP_MICROPHONE",
+    "ID_CAP_NETWORKING",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_WEBBROWSERCOMPONENT",
+    "ID_CAP_MEDIALIB_AUDIO"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "7.4.0.0",
+      "app_file": "T-Translator.xap"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/t.translator/",
+  "description": "T-Translator – программа переводчик, которая бесспорно должна быть у каждого владельца WP-смартфона. Ниже рассмотрим все возможности этого замечательного приложения:\n\n* доступны 72 языка для перевода между собой; \n* голосовая поддержка переводов на 42 языках; \n* перевод как одного слова, так и словосочетания (фразы); \n* сохранение переведенных ранее слов в закладках программы; \n* поиск требуемого текста и перевод его в интернет сети; \n* совместное использование отправки ввода текста или его перевод по электронной почте, SMS или социальной сети; \n* приложения имеет живую плитку, которая гармонично впишется на вашем стартовом экране; \n* все функции управления и настройки T-Translator будут размещены на главном экране смартфона.",
+  "summary": "Переводчик использующий Google Translate API.",
+  "creator": "Eugery Domanov",
+  "category": "tools"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "{5c5cb096-2785-48aa-ac68-7b6ce89efcd9}",
+  "title": "Aito Mobile",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_SENSORS",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "6.0.0.0",
+      "app_file": "Aito_Mobile_V6.xap"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/8net.aito/",
+  "screenshots": [
+    "screenshots/1.png",
+    "screenshots/2.png",
+    "screenshots/3.png"
+  ],
+  "description": "Современный браузер для WindowsPhone 8.1 на базе MetroSurf.",
+  "creator": "ChockingNetDude",
+  "summary": "Современный браузер для WindowsPhone 8.1",
+  "category": "tools"
+}

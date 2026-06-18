@@ -1,0 +1,35 @@
+{
+  "id": "{70ae99d8-5ef7-4c8f-b7f7-d47a56347026}",
+  "title": "ToolKit Pro",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_ISV_CAMERA",
+    "ID_CAP_LOCATION",
+    "ID_CAP_MAP",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_MICROPHONE",
+    "ID_CAP_SENSORS",
+    "ID_CAP_IDENTITY_DEVICE",
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT",
+    "ID_CAP_SPEECH_RECOGNITION",
+    "ID_CAP_PROXIMITY",
+    "ID_CAP_CONTACTS",
+    "ID_CAP_MEDIALIB_PHOTO",
+    "ID_CAP_IDENTITY_USER",
+    "ID_CAP_PHONEDIALER"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "2.0.0.2",
+      "app_file": "ToolKitPro.appxbundle"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/toolkit.pro/",
+  "description": "Все необходимые инструменты в одном универсальном приложении: линейка, фонарик, конвертер и т. д.",
+  "summary": "Прикольная штука",
+  "creator": "CoolMedia.com",
+  "category": "tools"
+}

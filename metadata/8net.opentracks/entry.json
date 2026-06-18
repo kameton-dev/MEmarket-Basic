@@ -1,0 +1,21 @@
+{
+  "id": "5a8ecb57-b55a-4b8a-aa41-4425bc27d1d1",
+  "title": "Opentracks",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClientServer",
+    "musicLibrary"
+  ],
+  "app_type": "winrt",
+  "versions": [
+    {
+      "version": "2.0.0.1",
+      "app_file": "opentracks.appx"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/8net.opentracks/",
+  "description": "**OpenTracks V2 Exploration Update**\n| MetroUI, Explore hub is back!\n| Complete background play \n| API based \n| Full screen player and more..",
+  "creator": "ChockingNetDude",
+  "summary": "Проигрыватель музыки с API от opetracks",
+  "category": "music+video"
+}

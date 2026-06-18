@@ -1,0 +1,28 @@
+{
+  "id": "d9513957-2da6-4110-8607-b5d1d120a347",
+  "title": "outlook",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClient"
+  ],
+  "app_type": "uwp",
+  "versions": [
+    {
+      "version": "1.0.0.0",
+      "app_file": "Outlook v.1.0.0.0.appxbundle"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/microslop.outlook/",
+  "screenshots": [
+    "screenshots/1.png",
+    "screenshots/2.png",
+    "screenshots/3.png",
+    "screenshots/4.png",
+    "screenshots/5.png",
+    "screenshots/6.png"
+  ],
+  "description": "A full-fledged third-party email client for Microsoft Outlook. It allows you to perform all the basic operations with your Microsoft email. The email client can send messages with attachments and display your messages correctly.",
+  "summary": "Сторонний клиент эл. почты",
+  "creator": "AjayAnandrao",
+  "category": "tools"
+}

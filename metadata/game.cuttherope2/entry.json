@@ -1,0 +1,22 @@
+{
+  "id": "ZeptoLabUKLimited.CuttheRope2",
+  "title": "Cut the Rope 2",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClient",
+    "internetClientServer",
+    "privateNetworkClientServer"
+  ],
+  "app_type": "winrt",
+  "versions": [
+    {
+      "version": "1.0.0.42",
+      "app_file": "game.appx"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/game.cuttherope2/",
+  "description": "Это и есть ам ням.",
+  "summary": "Игра",
+  "creator": "ZeptoLab",
+  "category": "games"
+}

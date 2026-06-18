@@ -1,0 +1,29 @@
+{
+  "id": "{881e44b3-dee4-49f8-a132-6fac14248606}",
+  "title": "Hop!",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_SENSORS",
+    "ID_CAP_WEBBROWSERCOMPONENT",
+    "ID_CAP_MEDIALIB_PHOTO",
+    "ID_CAP_IDENTITY_USER",
+    "ID_CAP_PHONEDIALER",
+    "ID_CAP_IDENTITY_DEVICE",
+    "ID_CAP_PROXIMITY"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "1.1.0.0",
+      "app_file": "Hop.xap"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/game.hop/",
+  "description": "This is test app description with **Markdown support**!\n\n~~test~~\n\n_test_\n\n### Test 1\n\n---\n(test separator)\n\n## Test 2\n\n- test\n\n1. test\n2. test\n\n| test spreadsheet | hello |\n|---|---|\n| loool | test\n\n```json\n\"lol\": \"test json\"\n```",
+  "summary": "Игра",
+  "creator": "?",
+  "category": "games"
+}

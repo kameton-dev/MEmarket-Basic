@@ -1,0 +1,25 @@
+{
+  "id": "{91a39795-a77f-4868-b96d-2090c829f068}",
+  "title": "SimpleDictaphone",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_SENSORS",
+    "ID_CAP_WEBBROWSERCOMPONENT",
+    "ID_CAP_MICROPHONE"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "1.0.0.0",
+      "app_file": "SimpleDictaphone.xap"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/simple.dicta/",
+  "description": "Простое приложение для записи звука. Можно прослушивать аудиофайлы в приложении, и, при надобности, сохранять их в папку телефона (Music/SimpleDictaphone)",
+  "summary": "Приложение диктафона с поддержкой сохранения записей",
+  "creator": "kameton.dev",
+  "category": "tools"
+}

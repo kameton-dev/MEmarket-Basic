@@ -1,0 +1,21 @@
+{
+  "id": "59169Willpowersystems.BlueSkyBrowser",
+  "title": "BlueSky Edge",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClient",
+    "location"
+  ],
+  "app_type": "uwp",
+  "versions": [
+    {
+      "version": "2.1805.14.2",
+      "app_file": "GrayBlueSky_Project_2.1805.14.2_ARM.appx"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/bluesky.browser/",
+  "description": "Браузер для Windows 10 Mobile с закосом под десктопный Microsoft Edge",
+  "summary": "Браузер для Windows 10 Mobile с закосом под десктопный Microsoft Edge",
+  "creator": "Guilherme Thomazelli",
+  "category": "tools"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Yodo1Ltd.CrossyRoad",
+  "title": "Crossy Road",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClientServer",
+    "removableStorage"
+  ],
+  "app_type": "winrt",
+  "versions": [
+    {
+      "version": "1.2.0.0",
+      "app_file": "CrossyRoad_1.2.0.0_arm.appxbundle"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/game.crossyroad/",
+  "description": "Crossy Road — это бесконечная онлайн-аркадная игра, в которой вы должны безопасно провести цыпленка через дороги, железные дороги и реки. Продолжайте движение, чтобы набрать как можно больше очков!",
+  "summary": "Игры цыпа бегает",
+  "creator": "Hipster Whale",
+  "category": "games"
+}

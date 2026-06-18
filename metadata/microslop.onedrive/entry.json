@@ -1,0 +1,28 @@
+{
+  "id": "c6b6e6cf-e70c-4bfb-a820-40a4333c17d9",
+  "title": "OneDrive",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClient",
+    "picturesLibrary",
+    "backgroundMediaPlayback"
+  ],
+  "app_type": "uwp",
+  "versions": [
+    {
+      "version": "1.0.1.0",
+      "app_file": "OneDrive v.1.0.1.0.appxbundle"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/microslop.onedrive/",
+  "screenshots": [
+    "screenshots/1.jpg",
+    "screenshots/2.jpg",
+    "screenshots/3.jpg",
+    "screenshots/4.jpg"
+  ],
+  "description": "We present to you a third-party client for the OneDrive service. With its help, you can easily and quickly view all your uploaded files in the cloud service, copy, delete, move, etc. Unfortunately, the program cannot yet automatically synchronize your photos from your phone to the cloud. This can currently only be done manually.",
+  "summary": "Сторонний клиент OneDrive",
+  "creator": "AjayAnandrao",
+  "category": "tools"
+}

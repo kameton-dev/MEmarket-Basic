@@ -1,6 +1,188 @@
 {
   "repo_name": "MEmarket basic",
   "creator": "kameton.dev",
+  "last_updated": "06-18-2026",
   "format": 1,
-  "packages": {}
+  "packages": {
+    "{5c5cb096-2785-48aa-ac68-7b6ce89efcd9}": {
+      "latest_version": "6.0.0.0",
+      "title": "Aito Mobile",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/8net.aito/",
+      "icon": "icon.png",
+      "summary": "Современный браузер для WindowsPhone 8.1",
+      "category": "tools"
+    },
+    "5a8ecb57-b55a-4b8a-aa41-4425bc27d1d1": {
+      "latest_version": "2.0.0.1",
+      "title": "Opentracks",
+      "app_type": "winrt",
+      "app_url": "http://millenniummarket.ru/metadata/8net.opentracks/",
+      "icon": "icon.png",
+      "summary": "Проигрыватель музыки с API от opetracks",
+      "category": "music+video"
+    },
+    "FinalWire.AIDA64": {
+      "latest_version": "1.1.1.0",
+      "title": "AIDA64",
+      "app_type": "winrt",
+      "app_url": "http://millenniummarket.ru/metadata/aida64/",
+      "icon": "icon.png",
+      "summary": "Утилита для просмотра спецификации смартфона и системы",
+      "category": "tools"
+    },
+    "59169Willpowersystems.BlueSkyBrowser": {
+      "latest_version": "2.1805.14.2",
+      "title": "BlueSky Edge",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/bluesky.browser/",
+      "icon": "icon.png",
+      "summary": "Браузер для Windows 10 Mobile с закосом под десктопный Microsoft Edge",
+      "category": "tools"
+    },
+    "CMDInjector": {
+      "latest_version": "4.0.6.0",
+      "title": "CMD Injector [W10m]",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/cmd.ing.w10m/",
+      "icon": "icon.png",
+      "summary": "A command prompt for Windows 10 Mobile.",
+      "category": "tools"
+    },
+    "{87611e4e-f9f7-411b-aca9-d24a1e001ab0}": {
+      "latest_version": "1.3.0.0",
+      "title": "CMD Injector [WP8]",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/cmd.ing.wp8/",
+      "icon": "Assets\\ApplicationIcon.png",
+      "summary": "A command prompt for Windows Phone 8.",
+      "category": "tools"
+    },
+    "Yodo1Ltd.CrossyRoad": {
+      "latest_version": "1.2.0.0",
+      "title": "Crossy Road",
+      "app_type": "winrt",
+      "app_url": "http://millenniummarket.ru/metadata/game.crossyroad/",
+      "icon": "icon.png",
+      "summary": "Игры цыпа бегает",
+      "category": "games"
+    },
+    "ZeptoLabUKLimited.CuttheRope2": {
+      "latest_version": "1.0.0.42",
+      "title": "Cut the Rope 2",
+      "app_type": "winrt",
+      "app_url": "http://millenniummarket.ru/metadata/game.cuttherope2/",
+      "icon": "icon.png",
+      "summary": "Игра",
+      "category": "games"
+    },
+    "{67ef3bcb-28e7-427c-a3dc-fa7ac39d2138}": {
+      "latest_version": "1.1.0.0",
+      "title": "Dumb Ways To Die 2: The Games",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/game.dumbwaystodie2/",
+      "icon": "icon.png",
+      "summary": "Игра",
+      "category": "games"
+    },
+    "{881e44b3-dee4-49f8-a132-6fac14248606}": {
+      "latest_version": "1.1.0.0",
+      "title": "Hop!",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/game.hop/",
+      "icon": "icon.png",
+      "summary": "Игра",
+      "category": "games"
+    },
+    "b10f220f-b06f-4852-ac7b-6c6575a88ce7": {
+      "latest_version": "0.0.2.0",
+      "title": "MEmarket",
+      "app_type": "winrt",
+      "app_url": "http://millenniummarket.ru/metadata/me.market.legacy/",
+      "icon": "icon.png",
+      "summary": "Архивный клиент MEmarket",
+      "category": "store"
+    },
+    "ceb29f5e-5f0c-4143-af8d-7f08bc26b4de": {
+      "latest_version": "0.0.2.0",
+      "title": "MEmarket-UWP",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/me.market.w10m/",
+      "icon": "icon.png",
+      "summary": "Все обновления клиента W10M тут",
+      "category": "store"
+    },
+    "c6b6e6cf-e70c-4bfb-a820-40a4333c17d9": {
+      "latest_version": "1.0.1.0",
+      "title": "OneDrive",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/microslop.onedrive/",
+      "icon": "icon.png",
+      "summary": "Сторонний клиент OneDrive",
+      "category": "tools"
+    },
+    "d9513957-2da6-4110-8607-b5d1d120a347": {
+      "latest_version": "1.0.0.0",
+      "title": "outlook",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/microslop.outlook/",
+      "icon": "icon.png",
+      "summary": "Сторонний клиент эл. почты",
+      "category": "tools"
+    },
+    "778f72ea-955f-46ed-8985-ee848bd07faf": {
+      "latest_version": "1.0.16.0",
+      "title": "OpenVK",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/o.vk/",
+      "icon": "icon.png",
+      "summary": "UWP приложение для десктопного Windows 10/11 и Windows 10 Mobile",
+      "category": "social"
+    },
+    "{91a39795-a77f-4868-b96d-2090c829f068}": {
+      "latest_version": "1.0.0.0",
+      "title": "SimpleDictaphone",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/simple.dicta/",
+      "icon": "icon.png",
+      "summary": "Приложение диктафона с поддержкой сохранения записей",
+      "category": "tools"
+    },
+    "{958aab8a-b108-4c2e-8c87-deb9d0c5c640}": {
+      "latest_version": "1.0.0.0",
+      "title": "SimpleNotes",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/simple.notes/",
+      "icon": "icon.png",
+      "summary": "Простое приложение заметок",
+      "category": "tools"
+    },
+    "{f8c2cbc1-7161-4f8f-a105-17b0a2a95613}": {
+      "latest_version": "1.0.0.0",
+      "title": "SimpleTasks",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/simple.tasks/",
+      "icon": "icon.png",
+      "summary": "Простая напоминалка для планов и задач",
+      "category": "tools"
+    },
+    "{47119617-2ee7-4b8e-ae3f-9a661b646499}": {
+      "latest_version": "7.4.0.0",
+      "title": "T-Translator",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/t.translator/",
+      "icon": "icon.png",
+      "summary": "Переводчик использующий Google Translate API.",
+      "category": "tools"
+    },
+    "{70ae99d8-5ef7-4c8f-b7f7-d47a56347026}": {
+      "latest_version": "2.0.0.2",
+      "title": "ToolKit Pro",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/toolkit.pro/",
+      "icon": "icon.png",
+      "summary": "Прикольная штука",
+      "category": "tools"
+    }
+  }
 }

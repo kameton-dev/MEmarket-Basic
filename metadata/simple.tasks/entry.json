@@ -1,0 +1,24 @@
+{
+  "id": "{f8c2cbc1-7161-4f8f-a105-17b0a2a95613}",
+  "title": "SimpleTasks",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_SENSORS",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "1.0.0.0",
+      "app_file": "SimpleTasks.xap"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/simple.tasks/",
+  "description": "Приложение для планов и задач. отчасти повторяет некоторые функции системного Календаря, но чуть чуть круче и удобнее благодаря живым плиткам",
+  "summary": "Простая напоминалка для планов и задач",
+  "creator": "kameton.dev",
+  "category": "tools"
+}
