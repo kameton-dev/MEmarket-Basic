@@ -1,7 +1,7 @@
 {
   "id": "{87611e4e-f9f7-411b-aca9-d24a1e001ab0}",
   "title": "CMD Injector [WP8]",
-  "icon": "Assets\\ApplicationIcon.png",
+  "icon": "icon.png",
   "capabilities": [
     "ID_CAP_RUNTIME_CONFIG"
   ],

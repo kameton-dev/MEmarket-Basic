@@ -54,7 +54,7 @@
       "title": "CMD Injector [WP8]",
       "app_type": "silverlight",
       "app_url": "http://millenniummarket.ru/metadata/cmd.ing.wp8/",
-      "icon": "Assets\\ApplicationIcon.png",
+      "icon": "icon.png",
       "summary": "A command prompt for Windows Phone 8.",
       "category": "tools"
     },
@@ -103,11 +103,20 @@
       "summary": "Архивный клиент MEmarket",
       "category": "store"
     },
+    "{f3d821cb-4597-4627-ac44-060db92974c1}": {
+      "latest_version": "0.0.0.1",
+      "title": "MEmarket Silverlight",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/me.market.silverlight/",
+      "icon": "icon.png",
+      "summary": "Все обновления клиента WP8.1 тут",
+      "category": "store"
+    },
     "ceb29f5e-5f0c-4143-af8d-7f08bc26b4de": {
-      "latest_version": "0.0.2.0",
+      "latest_version": "0.0.3.0",
       "title": "MEmarket-UWP",
       "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/me.market.w10m/",
+      "app_url": "http://millenniummarket.ru/metadata/me.market.uwp/",
       "icon": "icon.png",
       "summary": "Все обновления клиента W10M тут",
       "category": "store"

@@ -8,6 +8,10 @@
   "app_type": "uwp",
   "versions": [
     {
+      "version": "0.0.3.0",
+      "app_file": "MEmarket-UWP_0.0.3.0_ARM.appx"
+    },
+    {
       "version": "0.0.2.0",
       "app_file": "MEmarket-UWP_0.0.2.0_x86_arm.appxbundle"
     },
@@ -16,7 +20,7 @@
       "app_file": "MEmarket-UWP_0.0.1.0_x86_arm.appxbundle"
     }
   ],
-  "app_url": "http://millenniummarket.ru/metadata/me.market.w10m/",
+  "app_url": "http://millenniummarket.ru/metadata/me.market.uwp/",
   "screenshots": [
     "screenshots/1.png",
     "screenshots/2.png",
