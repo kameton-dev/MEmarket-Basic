@@ -1,0 +1,1 @@
+Браузер для Windows 10 Mobile с закосом под десктопный Microsoft Edge

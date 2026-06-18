@@ -1,0 +1,1 @@
+We present to you a third-party client for the OneDrive service. With its help, you can easily and quickly view all your uploaded files in the cloud service, copy, delete, move, etc. Unfortunately, the program cannot yet automatically synchronize your photos from your phone to the cloud. This can currently only be done manually.

@@ -1,28 +1,24 @@
 {
-  "repo_name": "MEmarket basic",
+  "repo_name": "MEmarket basic для старых клиентов",
   "creator": "kameton.dev",
-  "last_updated": "12.05.2026",
+  "last_updated": "18.06.2026",
   "supported_os": ["WP8.1", "W10M"],
   "apps": [
     {
       "id": "me.market.wp8",
       "base_url": "http://millenniummarket.ru/apps/me.market.wp8/",
       "os": "WP8.1",
-      "title": "MEmarket [WP8.1]",
-      "screenshots": ["1.png", "2.png", "3.png", "4.png"],
+      "title": "MEmarket [WP8.1] (не поддерживается)",
+      "screenshots": [],
       "author": "SimpleSoftware (kameton.dev)",
-      "description": "Актуальная версия клиента магазина репозиторий MEmarket для Windows Phone 8.1 будет всегда под рукой!",
+      "description": "ВНИМАНИЕ! В связи с перезагрузкой проекта MEmarket, данная версия не поддерживается и теперь в архиве. Подробнее в описании MEmarket Silverlight.",
       "icon_url": "logo-memarket.png",
       "size": "0,1 MB",
       "category": "store",
       "versions": [
         {
-            "version": "0.0.1.3 Public Beta",
-            "download_url": "http://millenniummarket.ru/apps/me.market.wp8/MEmarket_0.0.1.3_AnyCPU.appxbundle"
-        },
-        {
             "version": "0.0.2.0 Public Beta",
-            "download_url": "http://millenniummarket.ru/apps/me.market.wp8/MEmarket_0.0.2.0_AnyCPU.appxbundle"
+            "download_url": ""
         }
       ]
     },
@@ -34,284 +30,34 @@
       "title": "MEmarket [W10M]",
       "screenshots": ["1.png", "2.png", "3.png", "4.png"],
       "author": "SimpleSoftware (kameton.dev)",
-      "description": "Актуальная версия клиента магазина репозиторий MEmarket для Windows 10 Mobile будет всегда под рукой! ",
+      "description": "ВНИМАНИЕ! В связи с перезагрузкой проекта MEmarket, версии клиента до 0.0.3.0 больше не поддерживаются. Для дальнейшей поддержки обновитесь до новой версии 0.0.3.0 Public Beta",
       "icon_url": "logo-memarket.png",
       "size": "1 MB",
       "category": "store",
       "versions": [
         {
-            "version": "0.0.1.0 Public Beta",
-            "download_url": "http://millenniummarket.ru/apps/me.market.w10m/MEmarket-UWP_0.0.1.0_x86_arm.appxbundle"
-        },
-        {
-            "version": "0.0.2.0 Public Beta",
-            "download_url": "http://millenniummarket.ru/apps/me.market.w10m/MEmarket-UWP_0.0.2.0_x86_arm.appxbundle"
+            "version": "0.0.3.0 Public Beta",
+            "download_url": "http://millenniummarket.ru/apps/me.market.w10m/MEmarket-UWP_0.0.3.0_ARM.appx"
         }
       ]
     },
     {
-      "id": "simple.notes",
-      "base_url": "http://millenniummarket.ru/apps/simple.notes/",
+      "id": "me.market.silverlight",
+      "base_url": "http://millenniummarket.ru/apps/me.market.silverlight/",
       "os": "WP8.1",
-      "title": "SimpleNotes",
-      "screenshots": [],
-      "author": "SimpleSoftware (kameton.dev)",
-      "description": "Обычное приложение заметок для WindowsPhone 8 с функцией прикрепления фотографий",
-      "icon_url": "sn.png",
-      "size": "0,6 MB",
-      "category": "note",
-      "version": "1.1 SGU1",
-      "download_url": "http://millenniummarket.ru/apps/simple.notes/SimpleNotes_1.1_SGU1_RU.xap"
-    },
-    {
-      "id": "simple.tasks",
-      "base_url": "http://millenniummarket.ru/apps/simple.tasks/",
-      "os": "WP8.1",
-      "title": "SimpleTasks",
-      "screenshots": [],
-      "author": "SimpleSoftware (kameton.dev)",
-      "description": "Приложение для планов и задач. отчасти повторяет некоторые функции системного Календаря, но чуть чуть круче и удобнее благодаря живым плиткам",
-      "icon_url": "st.png",
-      "size": "0.3 MB",
-      "category": "note",
-      "version": "1.0 Release",
-      "download_url": "http://millenniummarket.ru/apps/simple.tasks/SimpleTasks_1.0_Release.xap"
-    },
-    {
-      "id": "simple.dicta",
-      "base_url": "http://millenniummarket.ru/apps/simple.dicta/",
-      "os": "WP8.1",
-      "title": "SimpleDictaphone",
-      "screenshots": [],
-      "author": "SimpleSoftware (kameton.dev)",
-      "description": "Простое приложение для записи звука. Можно прослушивать аудиофайлы в приложении, и, при надобности, сохранять их в папку телефона (Music/SimpleDictaphone)",
-      "icon_url": "sd.png",
-      "size": "0.6 MB",
-      "category": "tools",
-      "version": "1.2 SGU1",
-      "download_url": "http://millenniummarket.ru/apps/simple.dicta/SimpleDictaphone_1.2_SGU1.xap"
-    },
-    {
-      "id": "cmd.ing.wp8",
-      "base_url": "http://millenniummarket.ru/apps/cmd.ing.wp8/",
-      "os": "WP8.1",
-      "title": "CMD Injector [WP8.1]",
-      "screenshots": [],
-      "author": "fadilfadz01",
-      "description": "Командная строка для Windows Phone 8.",
-      "icon_url": "logo.png",
-      "size": "7.25 MB",
-      "category": "tools",
-      "version": "1.3.0.0",
-      "download_url": "http://millenniummarket.ru/apps/cmd.ing.wp8/CMDInjector_WP8_v1.3.0.0_Release_ARM.xap"
-    },
-    {
-      "id": "cmd.ing.w10m",
-      "base_url": "http://millenniummarket.ru/apps/cmd.ing.w10m/",
-      "os": "W10M",
-      "min_ver": "1507 (10240)",
-      "title": "CMD Injector [W10M]",
-      "screenshots": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png"],
-      "author": "fadilfadz01",
-      "description": "Командная строка для Windows 10 Mobile.",
-      "icon_url": "logo.png",
-      "size": "61.6 MB",
-      "category": "tools",
-      "version": "4.0.6.0",
-      "download_url": "http://millenniummarket.ru/apps/cmd.ing.w10m/CMDInjector_4.0.6.0_ARM.appx"
-    },
-    {
-      "id": "8net.aito",
-      "base_url": "http://millenniummarket.ru/apps/8net.aito/",
-      "os": "WP8.1",
-      "title": "Aito Mobile Browser",
-      "screenshots": ["1.png", "2.png", "3.png"],
-      "author": "ChockingNetDude",
-      "description": "Современный браузер для WindowsPhone 8.1 на базе MetroSurf.",
-      "icon_url": "ab.png",
-      "size": "7.6 MB",
-      "category": "tools",
+      "title": "MEmarket Silverlight",
+      "screenshots": ["1.png", "2.png", "3.png", "4.png", "5.png"],
+      "author": "kameton.dev",
+      "description": "Новый клиент для Windows Phone 8.1, переписанное с нуля для поддержки новой структуры репозиторий и прочих функций. Замена MEmarket WinRT",
+      "icon_url": "logo-memarket.png",
+      "size": "0,1 MB",
+      "category": "store",
       "versions": [
         {
-          "version": "V3",
-          "download_url": "http://millenniummarket.ru/apps/8net.aito/AitoBrowser.xap"
-        },
-        {
-          "version": "V6",
-          "download_url": "http://millenniummarket.ru/apps/8net.aito/Aito_Mobile_V6.xap"
+            "version": "0.0.0.1 Public Beta",
+            "download_url": "http://millenniummarket.ru/apps/me.market.silverlight/MEmarket_Release_ARM.xap"
         }
       ]
-    },
-    {
-      "id": "t.translator",
-      "base_url": "http://millenniummarket.ru/apps/t.translator/",
-      "os": "WP8.1",
-      "title": "T-Translator",
-      "screenshots": [],
-      "author": "Eugery Domanov",
-      "description": "там описание на англ мне лень переводить",
-      "icon_url": "tt.png",
-      "size": "3.7 MB",
-      "category": "tools",
-      "version": "7.4",
-      "download_url": "http://millenniummarket.ru/apps/t.translator/T-Translator.xap"
-    },
-    {
-      "id": "toolkit.pro",
-      "base_url": "http://millenniummarket.ru/apps/toolkit.pro/",
-      "os": "WP8.1",
-      "title": "ToolKit Pro",
-      "screenshots": [],
-      "author": "CoolMedia.com",
-      "description": "Все необходимые инструменты в одном универсальном приложении: линейка, фонаик, конвертер и т. д.",
-      "icon_url": "tp.png",
-      "size": "9 MB",
-      "category": "tools",
-      "version": "",
-      "download_url": "http://millenniummarket.ru/apps/toolkit.pro/ToolKitPro.appxbundle.xap"
-    },
-    {
-      "id": "aida64",
-      "base_url": "http://millenniummarket.ru/apps/aida64/",
-      "os": "WP8.1",
-      "title": "AIDA64",
-      "screenshots": [],
-      "author": "FinalWire Ltd.",
-      "description": "Аида как аида, показывает все о вашем смартфоне",
-      "icon_url": "a64.png",
-      "size": "0.5 MB",
-      "category": "tools",
-      "version": "1.1.1.0",
-      "download_url": "http://millenniummarket.ru/apps/aida64/AIDA64.appxbundle"
-    },
-    {
-      "id": "8net.opentracks",
-      "base_url": "http://millenniummarket.ru/apps/8net.opentracks/",
-      "os": "WP8.1",
-      "title": "OpenTracks",
-      "screenshots": [],
-      "author": "ChockingNetDude",
-      "description": "OpenTracks V2 Exploration Update| MetroUI, Explore hub is back!| Complete background play | API based | Full screen player and more..",
-      "icon_url": "ot.png",
-      "size": "4.2 MB",
-      "category": "music+video",
-      "version": "2.0.0.1",
-      "download_url": "http://millenniummarket.ru/apps/8net.opentracks/OpenTracks.xap"
-    },
-    {
-      "id": "game.hop",
-      "base_url": "http://millenniummarket.ru/apps/game.hop/",
-      "os": "WP8.1",
-      "title": "Hop!",
-      "screenshots": [],
-      "author": "?",
-      "description": "шарики игра круто очень скачать",
-      "icon_url": "h.png",
-      "size": "10.3 MB",
-      "category": "games",
-      "version": "1.0",
-      "download_url": "http://millenniummarket.ru/apps/game.hop/Hop.xap"
-    },
-    {
-      "id": "game.dumbwaystodie2",
-      "base_url": "http://millenniummarket.ru/apps/game.dumbwaystodie2/",
-      "os": "WP8.1",
-      "title": "Dumb Ways To Die 2",
-      "screenshots": [],
-      "author": "Millipede",
-      "description": "хз не играл",
-      "icon_url": "dwtd2.png",
-      "size": "23.8 MB",
-      "category": "games",
-      "version": "?",
-      "download_url": "http://millenniummarket.ru/apps/game.dumbwaystodie2/DWTD2.appxbundle.xap"
-    },
-    {
-      "id": "game.crossyroad",
-      "base_url": "http://millenniummarket.ru/apps/game.crossyroad/",
-      "os": "WP8.1",
-      "title": "Crossy Road",
-      "screenshots": [],
-      "author": "Hipster Whale",
-      "description": "Crossy Road — это бесконечная онлайн-аркадная игра, в которой вы должны безопасно провести цыпленка через дороги, железные дороги и реки. Продолжайте движение, чтобы набрать как можно больше очков!",
-      "icon_url": "logo.png",
-      "size": "33.5 MB",
-      "category": "games",
-      "version": "1.2.0.0",
-      "download_url": "http://millenniummarket.ru/apps/game.crossyroad/CrossyRoad_1.2.0.0_arm.appxbundle"
-    },
-    {
-      "id": "game.cuttherope2",
-      "base_url": "http://millenniummarket.ru/apps/game.cuttherope2/",
-      "os": "W10M",
-      "title": "Cut The Rope 2",
-      "screenshots": [],
-      "author": "ZeptoLab",
-      "description": "Это и есть ам ням. Ам ням, привет!",
-      "icon_url": "logo.png",
-      "size": "92 MB",
-      "category": "games",
-      "version": "1.0.0.42",
-      "download_url": "http://millenniummarket.ru/apps/game.cuttherope2/game.appx"
-    },
-    {
-      "id": "bluesky.browser",
-      "base_url": "http://millenniummarket.ru/apps/bluesky.browser/",
-      "os": "W10M",
-      "min_ver": "1703",
-      "title": "Bluesky Browser",
-      "screenshots": [],
-      "author": "Guilherme Thomazelli",
-      "description": "Браузер для Windows 10 Mobile с закосом под десктопный Microsoft Edge",
-      "icon_url": "logo.png",
-      "size": "1.6 MB",
-      "category": "tools",
-      "version": "2.1805.14.2",
-      "download_url": "http://millenniummarket.ru/apps/bluesky.browser/GrayBlueSky_Project_2.1805.14.2_ARM.appx"
-    },
-    {
-      "id": "o.vk",
-      "base_url": "http://millenniummarket.ru/apps/o.vk/",
-      "os": "W10M",
-      "title": "Open VK",
-      "screenshots": [],
-      "author": "zemonkamin",
-      "description": "OpenVK — социальная сеть с открытым исходным кодом, вдохновлённая ВКонтакте.",
-      "icon_url": "logo.jpg",
-      "size": "10 MB",
-      "category": "social",
-      "version": "1.0 Release",
-      "download_url": "http://millenniummarket.ru/apps/o.vk/OpenVK_1.0.16.0_arm.appxbundle"
-    },
-    {
-      "id": "microslop.outlook",
-      "base_url": "http://millenniummarket.ru/apps/microslop.outlook/",
-      "os": "W10M",
-      "min_ver": "1703",
-      "title": "Outlook",
-      "screenshots": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png"],
-      "author": "AjayAnandrao (https://t.me/AjayAnandrao)",
-      "description": "A full-fledged third-party email client for Microsoft Outlook. It allows you to perform all the basic operations with your Microsoft email. The email client can send messages with attachments and display your messages correctly.",
-      "icon_url": "logo.png",
-      "size": "25.2 MB",
-      "category": "social",
-      "version": "1.0.0.0",
-      "download_url": "http://millenniummarket.ru/apps/microslop.outlook/Outlook v.1.0.0.0.appxbundle"
-    },
-    {
-      "id": "microslop.onedrive",
-      "base_url": "http://millenniummarket.ru/apps/microslop.onedrive/",
-      "os": "W10M",
-      "min_ver": "1703",
-      "title": "OneDrive",
-      "screenshots": ["1.png", "2.png", "3.png", "4.png"],
-      "author": "AjayAnandrao (https://t.me/AjayAnandrao)",
-      "description": "Сторонний клиент OneDrive. Минусы: не умеет автоматически синхронизировать фото и другие медиа в облако",
-      "icon_url": "logo.png",
-      "size": "19.1 MB",
-      "category": "tools",
-      "version": "1.0.1.0",
-      "download_url": "http://millenniummarket.ru/apps/microslop.onedrive/OneDrive v.1.0.1.0.appxbundle"
     }
   ]
 }

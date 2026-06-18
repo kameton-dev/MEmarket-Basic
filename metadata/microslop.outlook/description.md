@@ -1,0 +1,1 @@
+A full-fledged third-party email client for Microsoft Outlook. It allows you to perform all the basic operations with your Microsoft email. The email client can send messages with attachments and display your messages correctly.
