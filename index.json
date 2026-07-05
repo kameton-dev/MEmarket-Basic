@@ -1,7 +1,7 @@
 {
   "repo_name": "MEmarket basic",
   "creator": "kameton.dev",
-  "last_updated": "06-18-2026",
+  "last_updated": "07-05-2026",
   "format": 1,
   "packages": {
     "{5c5cb096-2785-48aa-ac68-7b6ce89efcd9}": {
@@ -64,7 +64,7 @@
       "app_type": "winrt",
       "app_url": "http://millenniummarket.ru/metadata/game.crossyroad/",
       "icon": "icon.png",
-      "summary": "Игры цыпа бегает",
+      "summary": "Аркада, бесконечный раннер",
       "category": "games"
     },
     "ZeptoLabUKLimited.CuttheRope2": {
@@ -73,7 +73,7 @@
       "app_type": "winrt",
       "app_url": "http://millenniummarket.ru/metadata/game.cuttherope2/",
       "icon": "icon.png",
-      "summary": "Игра",
+      "summary": "Головоломка",
       "category": "games"
     },
     "{67ef3bcb-28e7-427c-a3dc-fa7ac39d2138}": {
@@ -82,7 +82,7 @@
       "app_type": "silverlight",
       "app_url": "http://millenniummarket.ru/metadata/game.dumbwaystodie2/",
       "icon": "icon.png",
-      "summary": "Игра",
+      "summary": "Казуал, экшен",
       "category": "games"
     },
     "{881e44b3-dee4-49f8-a132-6fac14248606}": {
@@ -91,7 +91,7 @@
       "app_type": "silverlight",
       "app_url": "http://millenniummarket.ru/metadata/game.hop/",
       "icon": "icon.png",
-      "summary": "Игра",
+      "summary": "Казуальный экшен",
       "category": "games"
     },
     "b10f220f-b06f-4852-ac7b-6c6575a88ce7": {

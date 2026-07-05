@@ -23,7 +23,7 @@
   ],
   "app_url": "http://millenniummarket.ru/metadata/game.hop/",
   "description": "This is test app description with **Markdown support**!\n\n~~test~~\n\n_test_\n\n### Test 1\n\n---\n(test separator)\n\n## Test 2\n\n- test\n\n1. test\n2. test\n\n| test spreadsheet | hello |\n|---|---|\n| loool | test\n\n```json\n\"lol\": \"test json\"\n```",
-  "summary": "Игра",
-  "creator": "?",
+  "summary": "Казуальный экшен",
+  "creator": "Ketchapp",
   "category": "games"
 }
