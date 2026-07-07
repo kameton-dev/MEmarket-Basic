@@ -1,12 +1,3 @@
-<h1 align="center">
-  <br>
-  <a href="https://github.com/kameton-dev/MEmarket-Silverlight"><img width="130" height="130" alt="MEmarket UWP" src="./MEmarket/Assets/ApplicationIcon.png" />
-</a>
-  <br>
-  <b>MEmarket Silverlight</b>
-  <br>
-</h1>
-
 **MEmarket Silverlight** — это новый клиент магазин приложений Millennium Market для Windows Phone 8.1, работающий на основе простых JSON-репозиториев, которые могут создавать абсолютно все, тем самым распространяя больше приложений. Замена MEmarket на WinRT
 
 > [!IMPORTANT]
