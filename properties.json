@@ -30,14 +30,14 @@
       "title": "MEmarket [W10M]",
       "screenshots": ["1.png", "2.png", "3.png", "4.png"],
       "author": "SimpleSoftware (kameton.dev)",
-      "description": "ВНИМАНИЕ! В связи с перезагрузкой проекта MEmarket, версии клиента до 0.0.3.0 больше не поддерживаются. Для дальнейшей поддержки обновитесь до новой версии 0.0.3.0 Public Beta",
+      "description": "ВНИМАНИЕ! В связи с перезагрузкой проекта MEmarket, версии клиента до 0.0.3.0 больше не поддерживаются. Для дальнейшей поддержки обновитесь до версии выше 0.0.2.0",
       "icon_url": "logo-memarket.png",
       "size": "1 MB",
       "category": "store",
       "versions": [
         {
-            "version": "0.0.3.0 Public Beta",
-            "download_url": "http://millenniummarket.ru/apps/me.market.w10m/MEmarket-UWP_0.0.3.0_ARM.appx"
+            "version": "0.1 (Public Beta)",
+            "download_url": "http://millenniummarket.ru/metadata/me.market.uwp/MEmarket-UWP_0.1.0.0_ARM.appxbundle"
         }
       ]
     },
@@ -54,8 +54,8 @@
       "category": "store",
       "versions": [
         {
-            "version": "0.0.0.1 Public Beta",
-            "download_url": "http://millenniummarket.ru/apps/me.market.silverlight/MEmarket_Release_ARM.xap"
+            "version": "0.0.1.0 (Public Beta)",
+            "download_url": "http://millenniummarket.ru/metadata/me.market.silverlight/MEmarket_Release_ARM_0.0.1.0.xap"
         }
       ]
     }

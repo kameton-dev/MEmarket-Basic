@@ -1,6 +1,6 @@
 {
   "id": "ceb29f5e-5f0c-4143-af8d-7f08bc26b4de",
-  "title": "MEmarket-UWP",
+  "title": "MEmarket UWP",
   "icon": "icon.png",
   "capabilities": [
     "internetClient"
@@ -8,16 +8,12 @@
   "app_type": "uwp",
   "versions": [
     {
+      "version": "0.1.0.0",
+      "app_file": "MEmarket-UWP_0.1.0.0_arm.appxbundle"
+    },
+    {
       "version": "0.0.3.0",
       "app_file": "MEmarket-UWP_0.0.3.0_ARM.appx"
-    },
-    {
-      "version": "0.0.2.0",
-      "app_file": "MEmarket-UWP_0.0.2.0_x86_arm.appxbundle"
-    },
-    {
-      "version": "0.0.1.0",
-      "app_file": "MEmarket-UWP_0.0.1.0_x86_arm.appxbundle"
     }
   ],
   "app_url": "http://millenniummarket.ru/metadata/me.market.uwp/",
