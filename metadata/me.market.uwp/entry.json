@@ -8,6 +8,10 @@
   "app_type": "uwp",
   "versions": [
     {
+      "version": "0.1.1.0",
+      "app_file": "MEmarket-UWP_0.1.1.0_arm.appxbundle"
+    },
+    {
       "version": "0.1.0.0",
       "app_file": "MEmarket-UWP_0.1.0.0_arm.appxbundle"
     },
