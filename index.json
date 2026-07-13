@@ -1,7 +1,7 @@
 {
   "repo_name": "MEmarket-Basic",
   "creator": "kameton.dev",
-  "last_updated": "07-10-2026",
+  "last_updated": "07-13-2026",
   "format": 1,
   "packages": {
     "{5c5cb096-2785-48aa-ac68-7b6ce89efcd9}": {
@@ -192,6 +192,15 @@
       "icon": "icon.png",
       "summary": "Прикольная штука",
       "category": "tools"
+    },
+    "49197Wirdschon.UnigramMobile": {
+      "latest_version": "22.12.6076.0",
+      "title": "Unigram Mobile Messenger",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/unigram.mobile/",
+      "icon": "icon.png",
+      "summary": "Клиент Telegram, оптимизированный для платформы Windows 10 Mobile.",
+      "category": "social"
     }
   }
 }
