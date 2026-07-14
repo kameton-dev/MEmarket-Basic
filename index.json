@@ -1,7 +1,7 @@
 {
   "repo_name": "MEmarket-Basic",
   "creator": "kameton.dev",
-  "last_updated": "07-13-2026",
+  "last_updated": "07-14-2026",
   "format": 1,
   "packages": {
     "{5c5cb096-2785-48aa-ac68-7b6ce89efcd9}": {
@@ -147,6 +147,33 @@
       "icon": "icon.png",
       "summary": "UWP приложение для десктопного Windows 10/11 и Windows 10 Mobile",
       "category": "social"
+    },
+    "Microsoft.Office.Excel": {
+      "latest_version": "16002.11901.20160.0",
+      "title": "Excel Mobile",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/office.exel/",
+      "icon": "icon.png",
+      "summary": "Excel для Windows 10 Mobile",
+      "category": "business"
+    },
+    "Microsoft.Office.PowerPoint": {
+      "latest_version": "16002.11901.20160.0",
+      "title": "PowerPoint Mobile",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/office.powerpoint/",
+      "icon": "icon.png",
+      "summary": "PowerPoint для Windows 10 Mobile",
+      "category": "business"
+    },
+    "Microsoft.Office.Word": {
+      "latest_version": "16002.11901.20160.0",
+      "title": "Word Mobile",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/office.word/",
+      "icon": "icon.png",
+      "summary": "Word для Windows 10 Mobile",
+      "category": "business"
     },
     "{91a39795-a77f-4868-b96d-2090c829f068}": {
       "latest_version": "1.0.0.0",

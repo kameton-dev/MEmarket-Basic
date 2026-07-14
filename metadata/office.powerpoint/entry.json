@@ -1,0 +1,25 @@
+{
+  "id": "Microsoft.Office.PowerPoint",
+  "title": "PowerPoint Mobile",
+  "icon": "icon.png",
+  "capabilities": [],
+  "app_type": "uwp",
+  "versions": [
+    {
+      "version": "16002.11901.20160.0",
+      "app_file": "PowerPoint_16002.11901.20160.0_ARM.mod.appxbundle"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/office.powerpoint/",
+  "screenshots": [
+    "screenshots/mQ600OkT1YBrWNuz0GyoAcBd3SnYcAn5Eby8ww3OEPyh.jpg",
+    "screenshots/mQ601ReIPUjAWNOD8WajQDeRWNTcAnbz1z00kbgBCiCz0e.jpg",
+    "screenshots/mQ607RkT1YBrWt85yIPeJQiHnyVZZs9GsIZOFIJy49Q.jpg",
+    "screenshots/mQ6084UbDSe3tJoixz1NpfpBD7hxPAHrsfYx4PLz2IFRt.jpg",
+    "screenshots/mQ6097OgLWEytJISZY1KLr4LxD4PAHL6nUTR9ThmQQq.jpg"
+  ],
+  "description": "Microsoft PowerPoint — лучшее приложение для просмотра, показа и создания презентаций на телефонах и планшетах с Windows с размером экрана не более 10,1 дюймов.\n\n\n## Возможности\n\nПОКАЗ ПРЕЗЕНТАЦИЙ В ЛЮБОМ МЕСТЕ\n• Подготовка и показ презентаций на телефоне или планшете.\n• Рисование на слайдах во время презентации для выделения ключевых моментов.\nПРОСМОТР И РЕДАКТИРОВАНИЕ ДАЖЕ В ПУТИ\n• Доступ к файлам в любом месте и в любое время благодаря интеграции с OneDrive, SharePoint и Dropbox.\n• Автоматическое сохранение файлов при редактировании презентаций на телефоне или планшете.\n• Возможность быстро поделиться презентацией и пригласить других пользователей ознакомиться с ней.\n• Возможность совместной работы: одновременное редактирование презентаций вместе с другими пользователями.\n• Мгновенный поиск нужных команд благодаря помощнику.\nСОЗДАНИЕ ИДЕАЛЬНЫХ ПРЕЗЕНТАЦИЙ\n• Использование телефона вместо персонального компьютера для редактирования и просмотра презентаций на большом экране.\n• Замечательные темы, позволяющие быстро приступить к работе над проектом.\n• Богатый выбор знакомых функций форматирования для наглядного оформления ваших работ.\n• Одинаково идеальные форматирование и макет презентации на любом устройстве.",
+  "summary": "PowerPoint для Windows 10 Mobile",
+  "creator": "Microslop",
+  "category": "business"
+}
