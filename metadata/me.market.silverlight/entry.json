@@ -16,7 +16,7 @@
   "versions": [
     {
       "version": "0.0.1.0",
-      "app_file": "MEmarket_Release_ARM_0.0.1.0.xap"
+      "app_file": "MEmarket_Release_ARM_latest.xap"
     },
     {
       "version": "0.0.0.1",
