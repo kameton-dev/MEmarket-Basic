@@ -1,0 +1,27 @@
+{
+  "id": "AvitoMicro",
+  "title": "AvitoMicro",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClient",
+    "internetClientServer",
+    "privateNetworkClientServer"
+  ],
+  "app_type": "uwp",
+  "versions": [
+    {
+      "version": "0.1.1.0",
+      "app_file": "AvitoMicro_0.1.1.0_arm.appxbundle"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/avito.micro/",
+  "screenshots": [
+    "screenshots/photo_1_2026-07-28_14-15-56.jpg",
+    "screenshots/photo_2_2026-07-28_14-15-56.jpg",
+    "screenshots/photo_3_2026-07-28_14-15-56.jpg"
+  ],
+  "description": "Обновлённый функционал, ведь добавили отображение изображений, и вернули стойкий парсинг цен. Для стойкости, добавили второй вид загрузки данных(Заголовки), ведь ключи имеют свойство помирать со временем. Так же, добавили средство проверки обновлений клиента, а так же, добавили изменения стиля ленты.\n\n> Весьма продолжительное время, пытались добавить вход в аккаунт, с помощью ОдноКлассников, но из за недопонимания в течение 2-х недель, мы попросту бросили эту затею на 75% готовности, часть этой затеи лежит на GitHub. \n\n– [Source проекта](https://github.com/AqimKND/Avito-micro-UWP-Client)",
+  "creator": "CDN",
+  "summary": "Неофициальный клиент Авито, с микро-функционалом",
+  "category": "business"
+}

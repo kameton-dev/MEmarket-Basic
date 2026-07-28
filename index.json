@@ -1,7 +1,7 @@
 {
   "repo_name": "MEmarket-Basic",
   "creator": "kameton.dev",
-  "last_updated": "07-21-2026",
+  "last_updated": "07-28-2026",
   "format": 1,
   "packages": {
     "{5c5cb096-2785-48aa-ac68-7b6ce89efcd9}": {
@@ -30,6 +30,15 @@
       "icon": "icon.png",
       "summary": "Утилита для просмотра спецификации смартфона и системы",
       "category": "tools"
+    },
+    "AvitoMicro": {
+      "latest_version": "0.1.1.0",
+      "title": "AvitoMicro",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/avito.micro/",
+      "icon": "icon.png",
+      "summary": "Неофициальный клиент Авито, с микро-функционалом",
+      "category": "business"
     },
     "59169Willpowersystems.BlueSkyBrowser": {
       "latest_version": "2.1805.14.2",
