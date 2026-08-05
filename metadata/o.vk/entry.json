@@ -6,6 +6,7 @@
     "internetClient",
     "backgroundMediaPlayback"
   ],
+  "minimum_version": "10.0.10586.0",
   "app_type": "uwp",
   "versions": [
     {

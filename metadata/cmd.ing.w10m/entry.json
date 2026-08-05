@@ -13,6 +13,7 @@
     "id_cap_runtime_config",
     "id_cap_oem_custom"
   ],
+  "minimum_version": "10.0.10240.0",
   "app_type": "uwp",
   "versions": [
     {

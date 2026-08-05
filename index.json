@@ -1,7 +1,7 @@
 {
   "repo_name": "MEmarket-Basic",
   "creator": "kameton.dev",
-  "last_updated": "07-29-2026",
+  "last_updated": "08-05-2026",
   "format": 1,
   "packages": {
     "{5c5cb096-2785-48aa-ac68-7b6ce89efcd9}": {
@@ -118,8 +118,12 @@
       "app_type": "silverlight",
       "app_url": "http://millenniummarket.ru/metadata/me.market.silverlight/",
       "icon": "icon.png",
-      "summary": "Все обновления клиента WP8.1 тут",
-      "category": "store"
+      "summary": {
+        "en": "All WP8.1 client updates are here",
+        "ru": "Все обновления клиента WP8.1 тут"
+      },
+      "category": "store",
+      "banner": "banner.png"
     },
     "ceb29f5e-5f0c-4143-af8d-7f08bc26b4de": {
       "latest_version": "0.1.2.0",
@@ -127,8 +131,12 @@
       "app_type": "uwp",
       "app_url": "http://millenniummarket.ru/metadata/me.market.uwp/",
       "icon": "icon.png",
-      "summary": "Все обновления клиента W10M тут",
-      "category": "store"
+      "summary": {
+        "en": "All W10M client updates are here",
+        "ru": "Все обновления клиента W10M тут"
+      },
+      "category": "store",
+      "banner": "banner.png"
     },
     "c6b6e6cf-e70c-4bfb-a820-40a4333c17d9": {
       "latest_version": "1.0.1.0",
@@ -191,7 +199,8 @@
       "app_url": "http://millenniummarket.ru/metadata/simple.dicta/",
       "icon": "icon.png",
       "summary": "Приложение диктафона с поддержкой сохранения записей",
-      "category": "tools"
+      "category": "tools",
+      "banner": "banner.png"
     },
     "{958aab8a-b108-4c2e-8c87-deb9d0c5c640}": {
       "latest_version": "1.0.0.0",
@@ -200,7 +209,8 @@
       "app_url": "http://millenniummarket.ru/metadata/simple.notes/",
       "icon": "icon.png",
       "summary": "Простое приложение заметок",
-      "category": "tools"
+      "category": "tools",
+      "banner": "banner.png"
     },
     "{f8c2cbc1-7161-4f8f-a105-17b0a2a95613}": {
       "latest_version": "1.0.0.0",
@@ -209,7 +219,8 @@
       "app_url": "http://millenniummarket.ru/metadata/simple.tasks/",
       "icon": "icon.png",
       "summary": "Простая напоминалка для планов и задач",
-      "category": "tools"
+      "category": "tools",
+      "banner": "banner.png"
     },
     "{47119617-2ee7-4b8e-ae3f-9a661b646499}": {
       "latest_version": "7.4.0.0",
@@ -219,6 +230,15 @@
       "icon": "icon.png",
       "summary": "Переводчик использующий Google Translate API.",
       "category": "tools"
+    },
+    "cf58f5e5-17d1-44a1-899f-0076989a54b4": {
+      "latest_version": "1.1.0.0",
+      "title": "Telegram",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/tg.uwp/",
+      "icon": "icon.png",
+      "summary": "Telegram клиент для Windows 10 Mobile 1511+",
+      "category": "social"
     },
     "{70ae99d8-5ef7-4c8f-b7f7-d47a56347026}": {
       "latest_version": "2.0.0.2",

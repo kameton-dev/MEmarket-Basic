@@ -1,6 +1,8 @@
 title: "MEmarket UWP"
 
-summary: "Все обновления клиента W10M тут"
+summary:
+  en: "All W10M client updates are here"
+  ru: "Все обновления клиента W10M тут"
 
 creator: "kameton.dev"
 

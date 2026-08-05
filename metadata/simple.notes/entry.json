@@ -17,6 +17,7 @@
     }
   ],
   "app_url": "http://millenniummarket.ru/metadata/simple.notes/",
+  "banner": "banner.png",
   "description": "Обычное приложение заметок для WindowsPhone 8 с функцией прикрепления фотографий",
   "summary": "Простое приложение заметок",
   "creator": "kameton.dev",

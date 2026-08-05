@@ -17,6 +17,7 @@
     }
   ],
   "app_url": "http://millenniummarket.ru/metadata/simple.tasks/",
+  "banner": "banner.png",
   "description": "Приложение для планов и задач. отчасти повторяет некоторые функции системного Календаря, но чуть чуть круче и удобнее благодаря живым плиткам",
   "summary": "Простая напоминалка для планов и задач",
   "creator": "kameton.dev",

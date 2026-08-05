@@ -18,6 +18,7 @@
     }
   ],
   "app_url": "http://millenniummarket.ru/metadata/simple.dicta/",
+  "banner": "banner.png",
   "description": "Простое приложение для записи звука. Можно прослушивать аудиофайлы в приложении, и, при надобности, сохранять их в папку телефона (Music/SimpleDictaphone)",
   "summary": "Приложение диктафона с поддержкой сохранения записей",
   "creator": "kameton.dev",
