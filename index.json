@@ -156,15 +156,6 @@
       "summary": "Сторонний клиент эл. почты",
       "category": "tools"
     },
-    "778f72ea-955f-46ed-8985-ee848bd07faf": {
-      "latest_version": "1.0.16.0",
-      "title": "OpenVK",
-      "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/o.vk/",
-      "icon": "icon.png",
-      "summary": "UWP приложение для десктопного Windows 10/11 и Windows 10 Mobile",
-      "category": "social"
-    },
     "Microsoft.Office.Excel": {
       "latest_version": "16002.11901.20160.0",
       "title": "Excel Mobile",
@@ -231,15 +222,6 @@
       "summary": "Переводчик использующий Google Translate API.",
       "category": "tools"
     },
-    "cf58f5e5-17d1-44a1-899f-0076989a54b4": {
-      "latest_version": "1.1.0.0",
-      "title": "Telegram",
-      "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/tg.uwp/",
-      "icon": "icon.png",
-      "summary": "Telegram клиент для Windows 10 Mobile 1511+",
-      "category": "social"
-    },
     "{70ae99d8-5ef7-4c8f-b7f7-d47a56347026}": {
       "latest_version": "2.0.0.2",
       "title": "ToolKit Pro",
@@ -257,6 +239,16 @@
       "icon": "icon.png",
       "summary": "Клиент Telegram, оптимизированный для платформы Windows 10 Mobile.",
       "category": "social"
+    },
+    "{1c4bd564-5426-417b-a5a0-e141abe6f858}": {
+      "latest_version": "5.27",
+      "title": "@AppResLib.dll,-100",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/vk.patched/",
+      "icon": "icon.png",
+      "summary": "Пропатченный клиент VK для Windows Phone 8.1",
+      "category": "social",
+      "banner": "banner.png"
     }
   }
 }
