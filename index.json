@@ -1,7 +1,7 @@
 {
   "repo_name": "MEmarket-Basic",
   "creator": "kameton.dev",
-  "last_updated": "08-05-2026",
+  "last_updated": "08-06-2026",
   "format": 1,
   "packages": {
     "{5c5cb096-2785-48aa-ac68-7b6ce89efcd9}": {
@@ -126,7 +126,7 @@
       "banner": "banner.png"
     },
     "ceb29f5e-5f0c-4143-af8d-7f08bc26b4de": {
-      "latest_version": "0.1.2.0",
+      "latest_version": "0.2.0.0",
       "title": "MEmarket UWP",
       "app_type": "uwp",
       "app_url": "http://millenniummarket.ru/metadata/me.market.uwp/",
