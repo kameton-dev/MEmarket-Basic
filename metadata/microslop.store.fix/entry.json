@@ -1,0 +1,42 @@
+{
+  "id": "Microsoft.WindowsStore",
+  "title": "Microsoft Store",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClientServer",
+    "cellularDeviceIdentity",
+    "packageQuery",
+    "deviceManagementFoundation",
+    "networkConnectionManagerProvisioning",
+    "storeAppInstallation",
+    "storeLicenseManagement",
+    "startScreenManagement",
+    "hevcPlayback",
+    "smbios",
+    "storeAppInstall",
+    "storeConfiguration",
+    "packageManagement",
+    "shellExperience",
+    "webcam",
+    "microphone"
+  ],
+  "minimum_version": "10.0.14393.0",
+  "app_type": "uwp",
+  "versions": [
+    {
+      "version": "11805.1001.42.0",
+      "app_file": "MS-Store-NonWebview.appxbundle"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/microslop.store.fix/",
+  "description": {
+    "en": "A fixed version of the original Microsoft Store that works without WebView\n\n# Installation\n\n1. Perform Interop Unlock;\n2. Uninstall the original Store (if it can't be removed from the context menu, uninstall it using Interop Tools);\n3. Wait a minute or two;\n4. Install the app",
+    "ru": "Пофикшенный оригинаьный Microsoft Store, который работает без WebView\n\n# Установка\n\n1. Сделать Interop Unlock;\n2. Удалить оригинальный Магазин (если не удаляется из контекстного меню - удалить через Interop Tools);\n3. Подождать минуту-две;\n4. Установить приложение"
+  },
+  "summary": {
+    "en": "Fixed original Store",
+    "ru": "Работающий ориг стор"
+  },
+  "creator": "Microslop",
+  "category": "store"
+}

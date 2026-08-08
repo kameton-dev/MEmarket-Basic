@@ -1,0 +1,30 @@
+{
+  "id": "VideoLabs.VLCforWindowsPhone",
+  "title": "VLC for Windows Phone",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClientServer",
+    "videosLibrary",
+    "musicLibrary",
+    "removableStorage",
+    "picturesLibrary"
+  ],
+  "app_type": "winrt",
+  "versions": [
+    {
+      "version": "1.8.4.0",
+      "app_file": "vlc-for-windows-phone.appxbundle"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/vlc.player.wp8/",
+  "description": {
+    "en": "VLC for Windows Phone plays most local video and audio files, and network streams. The app has a media library for audio and video files, a complete audio library, with metadata fetching. VLC supports multi-track audio and subtitles, speed control. VLC supports all formats of video, including, FLAC, MKV, MOV, TS and Ogg. ",
+    "ru": "VLC для Windows Phone воспроизводит большинство локальных видео- и аудиофайлов, а также сетевые потоки. Приложение имеет медиатеку для аудио- и видеофайлов, полную аудиотеку с возможностью получения метаданных. VLC поддерживает многодорожечное аудио и субтитры, а также регулировку скорости воспроизведения. VLC поддерживает все форматы видео, включая FLAC, MKV, MOV, TS и Ogg."
+  },
+  "summary": {
+    "en": "Simple mediaplayer",
+    "ru": "Простой медиаплеер"
+  },
+  "creator": "VideoLAN org.",
+  "category": "music+video"
+}

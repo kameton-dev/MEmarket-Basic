@@ -1,6 +1,8 @@
 title: "CMD Injector [W10m]"
 
-summary: "A command prompt for Windows 10 Mobile."
+summary: 
+  en: "A command prompt for Windows 10 Mobile."
+  ru: "Командная строка для Windows 10 Mobile"
 
 creator: "fadilfadz01"
 

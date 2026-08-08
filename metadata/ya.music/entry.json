@@ -1,0 +1,37 @@
+{
+  "id": "A025C540.Yandex.Music",
+  "title": "Яндекс.Музыка",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClient",
+    "privateNetworkClientServer",
+    "musicLibrary",
+    "backgroundMediaPlayback"
+  ],
+  "minimum_version": "10.0.15063.0",
+  "app_type": "uwp",
+  "versions": [
+    {
+      "version": "4.45.7233.0",
+      "app_file": "Яндекс.Музыка v.4.45.7233.0.appx"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/ya.music/",
+  "banner": "banner.jpg",
+  "screenshots": [
+    "screenshots/1.png",
+    "screenshots/2.png",
+    "screenshots/3.png",
+    "screenshots/4.png"
+  ],
+  "description": {
+    "en": "Yandex Music is a popular Russian streaming service from Yandex, allowing you to legally listen to millions of tracks, albums, podcasts, and audiobooks. The platform's key feature is its intelligent personalized recommendation system, \"My Vibe,\" which adapts to the user's listening preferences.",
+    "ru": "Яндекс Музыка — популярный российский стриминговый сервис от компании Яндекс, позволяющий легально слушать миллионы треков, альбомов, подкастов и аудиокниг. Главная особенность платформы — умная система персональных рекомендаций «Моя волна», которая подстраивается под вкус пользователя"
+  },
+  "summary": {
+    "en": "Russian streaming service",
+    "ru": "Российский стриминговый сервис"
+  },
+  "creator": "Яндекс",
+  "category": "music+video"
+}

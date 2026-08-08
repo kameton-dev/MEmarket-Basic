@@ -1,5 +1,7 @@
 creator: "FinalWire Ltd."
 
-summary: "Утилита для просмотра спецификации смартфона и системы"
-
+summary: 
+  en: "Utility for viewing smartphone and system specifications"
+  ru: "Утилита для просмотра спецификации смартфона и системы"
+  
 category: "tools"

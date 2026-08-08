@@ -1,0 +1,1 @@
+Yandex Music is a popular Russian streaming service from Yandex, allowing you to legally listen to millions of tracks, albums, podcasts, and audiobooks. The platform's key feature is its intelligent personalized recommendation system, "My Vibe," which adapts to the user's listening preferences.

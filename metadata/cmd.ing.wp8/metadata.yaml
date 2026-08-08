@@ -1,6 +1,8 @@
 title: "CMD Injector [WP8]"
 
-summary: "A command prompt for Windows Phone 8."
+summary: 
+  en: "A command prompt for Windows Phone 8."
+  ru: "Командная строка для Windows Phone 8"
 
 creator: "fadilfadz01"
 

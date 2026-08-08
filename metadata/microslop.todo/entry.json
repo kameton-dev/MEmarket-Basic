@@ -1,0 +1,28 @@
+{
+  "id": "Microsoft.Todos",
+  "title": "Microsoft TODO",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClient",
+    "privateNetworkClientServer"
+  ],
+  "minimum_version": "10.0.14393.0",
+  "app_type": "uwp",
+  "versions": [
+    {
+      "version": "1.48.21892.0",
+      "app_file": "MS-ToDo.appx"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/microslop.todo/",
+  "description": {
+    "en": "Microsoft To Do is a free cloud-based task planner that helps you easily organize your personal and work tasks, set reminders, plan your day, and sync lists across all your devices.",
+    "ru": "Microsoft To Do — это бесплатный облачный планировщик задач, помогающий легко организовывать личные и рабочие дела, ставить напоминания, планировать день и синхронизировать списки на любых устройствах"
+  },
+  "summary": {
+    "en": "TODO app",
+    "ru": "Приложение - планировщик"
+  },
+  "creator": "Microslop",
+  "category": "livestyle"
+}

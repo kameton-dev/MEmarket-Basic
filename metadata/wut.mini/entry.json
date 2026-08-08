@@ -1,0 +1,29 @@
+{
+  "id": "wut-mini-c6a2",
+  "title": "WUT Mini",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClient",
+    "privateNetworkClientServer",
+    "removableStorage",
+    "packageManagement",
+    "packageQuery"
+  ],
+  "minimum_version": "10.0.10240.0",
+  "app_type": "uwp",
+  "versions": [
+    {
+      "version": "1.5.1.0",
+      "app_file": "WUTMini_1.5.1.0_ARM (10240).appx"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/wut.mini/",
+  "banner": "banner.png",
+  "description": {
+    "en": "## Overview\n\nA powerful universal tool, complex tasks work in one place.\n\n<a href=\"https://github.com/basharast/wut/wiki/Content\">Content Policy</a>\n\n<a href=\"https://github.com/basharast/wut/wiki/Privacy\">Privacy Policy</a>\n\n## Thanks\n\nSpeical thanks for everyone tried to support my work:\n- David Hartanto\n- Aleksandar Milijevic\n- Julien BANZET\n\n## Credits\n\n[Read here about the full credits](https://github.com/basharast/wut/wiki/Credits)\n\n## Support\n\nUse it as is, it's a community project, fixing issues will not be covered as expected due to my limited time\n\nand the app has reached it limited capacity no further features are expected.\n\n\n## Features\n\n- Universal (UWP).\n- Privacy (0% data collection).\n- Multi languages.\n- Scripts Engine (Commander).\n- Batch Download.\n- MEGA.nz Client.\n- Unsplash Client.\n- Print Service.\n- Images Effects.\n- Built-in Browser.\n- Packages Management.\n- Download Client.\n- Media Preview (PDF, Videos..etc).\n- Advanced Settings.\n- And more..\n\n## Open Source?\n\nI don't benefit from WUT at all, it's completely free and made to help others for real\n\nthere are no plans for now to make the project opensource due to some considerations\n\nthis could change in future, but for now consider WUT as closed source project\n\nif you have any concerns (which is perfectly fine and normal) please contact me.\n\nHowever, parts of WUT already published for help and educational usage\n\n\n## Repo + Authentication\n\nThis feature made to help content creators to protect their own files and share it with limited users\n\nCheck out <a href=\"https://github.com/basharast/wut/wiki/Mega-Repo\">MEGA Repo Wiki</a>\n\n## Supported Platforms:\n\nWindows Phone (W10M)\n\nWindows 10 & Windows 11 (x64 - x86 - arm)\n\nARM based devices are strongly supported as the app made on the lowest possible target (14393)\n\n## WUT Mini\n\n- Compatible with builds 10240+\n- Lite Cache\n- RAM Friendly\n- Commander (WUT Scripts)\n- Astoria Tools\n- Much more..\n\n### Known issues (Mini)\nNote that issues below may occur on certain builds only,\n- **Issue 1:** If you tried to open file WUT Mini may crash\n- **Solution:** Navigate to the queue once before opening any file, then all will be ok\n\n\n## Guides\n\nMany thanks to [Lasitha Samarasighe](https://www.t.me/Lasitha_S) for preparing these guides\n\n### Features \n[![Alt text](https://img.youtube.com/vi/pGwtzEpE-nU/0.jpg)](https://www.youtube.com/watch?v=pGwtzEpE-nU)\n\n\n## Download:\n\n<a href=\"https://github.com/basharast/wut/releases/latest\">Click Here</a>\n\n\n## About Commander (Scripts Engine):\n\nCheck out <a href=\"https://github.com/basharast/wut/wiki\">GitHub Wiki</a>\n\nCommander built to help anyone to create unlimited scripts for different purposes using GUI elements\n\nThe script structure is very simple.\n\nYou can mix between commander codes and batch script (Telnet required) to get more advanced usage\n\nI tried to add commands as much as I can to make it more usable.\n\nCommander can be used like Automate.\n\nCheckout the documentation with the installation file for more details and demos.\n\n\n## Thanks:\n\nSpecial thanks for all the friends in <a href=\"https://t.me/Windows10Phone\">W10M Community</a> and for their suggestions and support.\n\nUnsplash feature was not possible without [Hangon ](https://github.com/rootasjey/Hangon) by Jeremie Corpinot \n\n---\n\n> ✨✨ Checkout [ImMobile](https://github.com/basharast/ImMobile) environment and [ImLibretro](https://github.com/basharast/ImLibretro).✨✨",
+    "ru": ""
+  },
+  "summary": "Windows Universal Tool",
+  "creator": "basharast",
+  "category": "store"
+}

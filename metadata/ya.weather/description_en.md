@@ -1,0 +1,1 @@
+Yandex Weather is a popular online service from Yandex that provides accurate weather forecasts for any location. The forecast is based on the unique Meteum technology, which uses machine learning and neural networks (though this isn't accurate).

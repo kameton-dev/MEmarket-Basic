@@ -1,0 +1,29 @@
+{
+  "id": "A025C540.4977208075C7E",
+  "title": "Яндекс.Погода",
+  "icon": "Assets\\AppIcons\\Square150×150Logo.png",
+  "capabilities": [
+    "internetClient",
+    "location"
+  ],
+  "minimum_version": "10.0.10586.0",
+  "app_type": "uwp",
+  "versions": [
+    {
+      "version": "1.2.179.0",
+      "app_file": "Yandex.Weather.App.appxbundle"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/ya.weather/",
+  "banner": "banner.jpg",
+  "description": {
+    "en": "Yandex Weather is a popular online service from Yandex that provides accurate weather forecasts for any location. The forecast is based on the unique Meteum technology, which uses machine learning and neural networks (though this isn't accurate).",
+    "ru": "Яндекс Погода — это популярный онлайн-сервис от компании «Яндекс», который показывает точный прогноз погоды для любого места. Прогноз строится на основе уникальной технологии «Метеум», которая использует компьютерное обучение и нейросети (но это не точно)"
+  },
+  "summary": {
+    "en": "Russian weather app",
+    "ru": "Приложение прогноза погоды"
+  },
+  "creator": "Яндекс",
+  "category": "news+weather"
+}

@@ -1,0 +1,1 @@
+AIDA64 is an application for system profiling, performance testing, diagnostics, and auditing, developed by the Hungarian company FinalWire Ltd for the Windows, Android, iOS, ChromeOS, Sailfish OS, Windows Phone, Ubuntu Touch, and Tizen operating systems.

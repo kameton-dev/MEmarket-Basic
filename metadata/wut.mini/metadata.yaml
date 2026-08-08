@@ -1,0 +1,13 @@
+# title - the name of app. Uncomment this if you are not satisfied with the application name
+# from the package manifest.
+# title: ""
+
+summary: "Windows Universal Tool"
+
+creator: "basharast"
+
+# The "category" parameter is used to correctly sort applications within the MEmarket client.
+# If it is specified in a non-standard format, the application will automatically be placed
+# in the general "Other" category.
+# Read more: https://millenniummarket.online/docs/index.html#categories
+category: "store"

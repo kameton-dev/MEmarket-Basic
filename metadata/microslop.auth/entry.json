@@ -1,0 +1,33 @@
+{
+  "id": "Microsoft.AzureAuthenticator",
+  "title": "Microsoft Authenticator",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClient",
+    "sharedUserCertificates",
+    "remotePassportAuthentication",
+    "webcam",
+    "proximity",
+    "radios",
+    "bluetooth.rfcomm"
+  ],
+  "minimum_version": "10.0.14393.0",
+  "app_type": "uwp",
+  "versions": [
+    {
+      "version": "6.0.20.0",
+      "app_file": "MiclosoftAuth-W10M.appx"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/microslop.auth/",
+  "description": {
+    "en": "Introducing the updated Microsoft Authenticator. One app for quickly and securely verifying your identity online, which you can use for all your accounts.\n\nThis app provides an extra layer of security when signing in, often referred to as two-step verification or multi-factor authentication. When you activate this app for your Microsoft work or school account, you'll receive a notification when you sign in. Tap to confirm, and you're done. For other accounts or when you're offline, you can use the built-in security code generator.\n\nThe new features and updated design are only available if you've installed the Anniversary Update for Windows 10. Without the update, you'll have an older version of the app that only supports two-factor authentication for your work or school account.",
+    "ru": "Представляем обновленный Microsoft Authenticator. Одно приложение для быстрого и безопасного подтверждения личности в Интернете, которое можно использовать для всех учетных записей.\n\nЭто приложение обеспечивает дополнительный уровень защиты при входе, часто называемый двухшаговой проверкой или многофакторной проверкой подлинности. Если активировать это приложение для рабочей или учебной учетных записей Майкрософт, вы получите уведомление при входе. Коснитесь для подтверждения - и все готово. Для других учетных записей или при нахождении в автономном режиме можно использовать встроенный генератор кода безопасности.\n\nНовые возможности и обновленный дизайн доступны, только если вы установили юбилейное обновление для Windows 10. Без обновления у вас будет более старая версия приложения, поддерживающая только двухфакторную проверку подлинности для рабочей и учебной учетной записи.\n"
+  },
+  "summary": {
+    "en": "Two-step authentication (2FA) and secure passwordless login app",
+    "ru": "Приложение двухэтапной аутентификации (2FA) и безопасного входа без пароля"
+  },
+  "creator": "Microslop",
+  "category": "tools"
+}

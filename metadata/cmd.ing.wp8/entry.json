@@ -13,8 +13,14 @@
     }
   ],
   "app_url": "http://millenniummarket.ru/metadata/cmd.ing.wp8/",
-  "description": "# CMD.Injector_WP8\nA command prompt for Windows Phone 8.\n\n\n### Disclaimer\n> Author does not take responsibility for any damage of the phone caused by the app. You are using this app solely at your own risk.\n\n\n### Requirements\n* Windows Phone 8.1\n* Bootloader unlock.\n* Interop unlock.\n\n\n### More\nFor W10M check out the UWP version of [CMD Injector](https://github.com/fadilfadz01/CMD.Injector).\n",
-  "summary": "A command prompt for Windows Phone 8.",
+  "description": {
+    "en": "# CMD.Injector_WP8\nA command prompt for Windows Phone 8.\n\n\n### Disclaimer\n> Author does not take responsibility for any damage of the phone caused by the app. You are using this app solely at your own risk.\n\n\n### Requirements\n* Windows Phone 8.1\n* Bootloader unlock.\n* Interop unlock.\n\n\n### More\nFor W10M check out the UWP version of [CMD Injector](https://github.com/fadilfadz01/CMD.Injector).\n",
+    "ru": "# CMD.Injector_WP8\nКомандная строка для Windows Phone 8.\n\n### Отказ от ответственности\n> Автор не несет ответственности за любой ущерб, причиненный телефону этим приложением. Вы используете это приложение исключительно на свой страх и риск.\n\n### Требования\n* Windows Phone 8.1\n* Разблокировка загрузчика.\n\n* Разблокировка совместимости.\n\n### Дополнительно\nДля W10M ознакомьтесь с UWP-версией [CMD Injector](https://github.com/fadilfadz01/CMD.Injector)."
+  },
+  "summary": {
+    "en": "A command prompt for Windows Phone 8.",
+    "ru": "Командная строка для Windows Phone 8"
+  },
   "creator": "fadilfadz01",
   "category": "tools"
 }
