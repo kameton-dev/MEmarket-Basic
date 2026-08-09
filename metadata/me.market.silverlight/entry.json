@@ -15,12 +15,16 @@
   "app_type": "silverlight",
   "versions": [
     {
-      "version": "0.0.1.0",
+      "version": "0.0.2.0",
       "app_file": "MEmarket_Release_ARM_latest.xap"
     },
     {
+      "version": "0.0.1.0",
+      "app_file": "MEmarket_Release_ARM_0.0.1.0.xap"
+    },
+    {
       "version": "0.0.0.1",
-      "app_file": "MEmarket_Release_ARM.xap"
+      "app_file": "MEmarket_Release_ARM_0.0.0.1.xap"
     }
   ],
   "app_url": "http://millenniummarket.ru/metadata/me.market.silverlight/",
