@@ -1,0 +1,1 @@
+VLC for Windows Phone plays most local video and audio files, and network streams. The app has a media library for audio and video files, a complete audio library, with metadata fetching. VLC supports multi-track audio and subtitles, speed control. VLC supports all formats of video, including, FLAC, MKV, MOV, TS and Ogg. 

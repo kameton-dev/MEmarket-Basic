@@ -1,7 +1,7 @@
 {
   "repo_name": "MEmarket-Basic",
   "creator": "kameton.dev",
-  "last_updated": "08-09-2026",
+  "last_updated": "08-13-2026",
   "format": 1,
   "packages": {
     "{5c5cb096-2785-48aa-ac68-7b6ce89efcd9}": {
@@ -196,10 +196,24 @@
       "latest_version": "16002.11901.20160.0",
       "title": "Excel Mobile",
       "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/office.exel/",
+      "app_url": "http://millenniummarket.ru/metadata/office.excel/",
       "icon": "icon.png",
       "summary": "Excel для Windows 10 Mobile",
-      "category": "business"
+      "category": "business",
+      "banner": "banner.jpg"
+    },
+    "Microsoft.Office.OneNote": {
+      "latest_version": "16002.11629.20028.0",
+      "title": "OneNote",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/office.onenote/",
+      "icon": "images\\OneNoteAppList.png",
+      "summary": {
+        "en": "Original OneNote app",
+        "ru": "Оригинальное приложение OneNote"
+      },
+      "category": "business",
+      "banner": "banner.jpg"
     },
     "Microsoft.Office.PowerPoint": {
       "latest_version": "16002.11901.20160.0",
@@ -208,7 +222,8 @@
       "app_url": "http://millenniummarket.ru/metadata/office.powerpoint/",
       "icon": "icon.png",
       "summary": "PowerPoint для Windows 10 Mobile",
-      "category": "business"
+      "category": "business",
+      "banner": "banner.jpg"
     },
     "Microsoft.Office.Word": {
       "latest_version": "16002.11901.20160.0",
@@ -217,7 +232,8 @@
       "app_url": "http://millenniummarket.ru/metadata/office.word/",
       "icon": "icon.png",
       "summary": "Word для Windows 10 Mobile",
-      "category": "business"
+      "category": "business",
+      "banner": "banner.jpg"
     },
     "{91a39795-a77f-4868-b96d-2090c829f068}": {
       "latest_version": "1.0.0.0",
@@ -264,7 +280,10 @@
       "app_type": "silverlight",
       "app_url": "http://millenniummarket.ru/metadata/toolkit.pro/",
       "icon": "icon.png",
-      "summary": "Прикольная штука",
+      "summary": {
+        "en": "Cool app",
+        "ru": "Прикольная штука"
+      },
       "category": "tools"
     },
     "49197Wirdschon.UnigramMobile": {
@@ -277,7 +296,8 @@
         "ru": "Клиент Telegram для платформы Windows 10 Mobile.",
         "en": "Telegram client for the Windows 10 Mobile platform."
       },
-      "category": "social"
+      "category": "social",
+      "banner": "banner.jpg"
     },
     "{1c4bd564-5426-417b-a5a0-e141abe6f858}": {
       "latest_version": "5.27",
@@ -293,7 +313,7 @@
       "latest_version": "1.8.4.0",
       "title": "VLC for Windows Phone",
       "app_type": "winrt",
-      "app_url": "http://millenniummarket.ru/metadata/vlc.player.wp8/",
+      "app_url": "http://millenniummarket.ru/metadata/vlc.player/",
       "icon": "icon.png",
       "summary": {
         "en": "Simple mediaplayer",

@@ -17,14 +17,6 @@
       "app_file": "MEmarket-UWP_0.1.2.0_arm.appxbundle"
     },
     {
-      "version": "0.1.1.0",
-      "app_file": "MEmarket-UWP_0.1.1.0_arm.appxbundle"
-    },
-    {
-      "version": "0.1.0.0",
-      "app_file": "MEmarket-UWP_0.1.0.0_arm.appxbundle"
-    },
-    {
       "version": "0.0.3.0",
       "app_file": "MEmarket-UWP_0.0.3.0_ARM.appx"
     }
@@ -32,11 +24,11 @@
   "app_url": "http://millenniummarket.ru/metadata/me.market.uwp/",
   "banner": "banner.png",
   "screenshots": [
-    "screenshots/1.png",
-    "screenshots/2.png",
-    "screenshots/3.png",
-    "screenshots/4.png",
-    "screenshots/5.png"
+    "screenshots/wp_ss_20260811_0001.png",
+    "screenshots/wp_ss_20260811_0002.png",
+    "screenshots/wp_ss_20260811_0003.png",
+    "screenshots/wp_ss_20260811_0004.png",
+    "screenshots/wp_ss_20260811_0005.png"
   ],
   "description": {
     "en": "**MEmarket UWP** is a Millennium Market app store client for Windows 10 Mobile, powered by simple JSON repositories that can be created by anyone, thereby distributing more apps.\n\n> **IMPORTANT**\n> The app is currently in **active development**. Be prepared for frequent updates and possible bugs.\n\n---\n\n## About Millennium Market\n\n**Millennium Market (MEmarket)** is the official repository of proven and essential apps (MEmarket-Basic), along with a set of tools for customizing and conveniently working with the store. The project was created and continues to be developed by one enthusiast, thanks to the support of our small but close-knit community. MEmarket's main goal is to prove that this approach doesn't have to be complicated and accessible only to geeks. We are creating a platform that is as user-friendly and intuitive as possible for every average user.\n\n## Features:\n\n- **Minimal dependencies** – simple C# / UWP architecture.\n- **Update Tracking** — Fully featured package update functionality, tracking, and management.\n- **Repositories** — Support for multiple repositories simultaneously and manage them.\n- **Cross-platform** — Support for Windows Phone 8.1 and Windows 10 Mobile apps.\n- **Simplicity** — Repositories are stored in a simple JSON format and are easy to generate and update.\n\n---\n\n## Useful links and references\n\n- [**Project website**](http://millenniummarket.online)\n- [How to quickly and easily create your own repository](http://millenniummarket.online/docs/index.html#about-memarketrepo)\n- [MEmarket-Basic GitHub repository](https://github.com/kameton-dev/MEmarket-Basic/)\n- [Follow the development on the Telegram channel!](https://t.me/SimpSoft)\n- [4pda page link](https://4pda.to/forum/index.php?showtopic=1121956)\n- [README reference](https://github.com/monogram-android/monogram/blob/develop/README_RU.md)\n\n---\n\n## License\n\nThis project is licensed under the GNU General Public License v3.0 (LICENSE).",
