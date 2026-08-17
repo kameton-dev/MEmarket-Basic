@@ -1,0 +1,47 @@
+{
+  "id": "{27d6a090-50d2-4337-88cb-41d97597757a}",
+  "title": "CustomPFD Registry Editor + Tweaks",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_SENSORS",
+    "ID_CAP_WEBBROWSERCOMPONENT",
+    "ID_CAP_NETWORKING",
+    "ID_CAP_MEDIALIB_AUDIO",
+    "ID_CAP_MEDIALIB_PLAYBACK",
+    "ID_CAP_MEDIALIB_PHOTO",
+    "ID_CAP_MEDIALIB_PHOTO_FULL",
+    "ID_CAP_SENSORS",
+    "ID_CAP_WEBBROWSERCOMPONENT",
+    "ID_CAP_INTEROPSERVICES",
+    "ID_CAP_CSP_FOUNDATION",
+    "ID_CAP_CSP_OEM",
+    "ID_CAP_CSP_W4_APPLICATION",
+    "ID_CAP_REMOVABLE_STORAGE",
+    "ID_CAP_PUSH_NOTIFICATION",
+    "ID_CAP_OEMPUBLICDIRECTORY",
+    "ID_CAP_DEVICE_MANAGEMENT_SECURITY_POLICIES",
+    "ID_CAP_DEVICE_MANAGEMENT_ADMIN",
+    "ID_CAP_RUNTIME_CONFIG"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "0.5.0.0",
+      "app_file": "CustomPFD_0600.xap"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/custom.pfd/",
+  "description": {
+    "en": "Welcome to CustomPFD, a registry editor with tree view and some tweaks, for Windows Phone 8.1\nThis app can read Keys with any phone, but to write you need to interop-unlock your device and possibly a Lumia device.\n\nLatest version: 0.6 - 17/09/2015\n- support for CustomPFD Remote\n- bugfix for multistring and binary values\n\n**Really important notes**\n- If you still want to patch CustomPFD to Preview For Developers with CustomWPSystem, you can download the v0.3\n- Some operations such as renaming or deleting still have the same permissions of Preview For Developers, so be careful while creating new keys/values\n- This app is compatible with Windows Phone 8.1 and Windows 10 Mobile only, with ARM processors\n- Other tips are available directly within the app\n- If you want to enable the \"Full FS Access\" tweak, don't shutdown or restart your phone, unless you disable that again! ",
+    "ru": "Добро пожаловать в CustomPFD, редактор реестра с древовидным представлением и некоторыми настройками для Windows Phone 8.1.\nЭто приложение может считывать ключи с любого телефона, но для записи вам потребуется разблокировать ваше устройство и, возможно, устройство Lumia.\n\nПоследняя версия: 0.6 - 17.09.2015\n- поддержка CustomPFD Remote\n- исправление ошибок для многострочных и двоичных значений\n\n**Очень важные примечания**\n- Если вы все еще хотите установить CustomPFD в режим Preview For Developers с помощью CustomWPSystem, вы можете скачать версию 0.3\n- Некоторые операции, такие как переименование или удаление, по-прежнему имеют те же разрешения, что и в режиме Preview For Developers, поэтому будьте осторожны при создании новых ключей/значений\n- Это приложение совместимо только с Windows Phone 8.1 и Windows 10 Mobile, с процессорами ARM\n- Другие советы доступны непосредственно в приложении\n- Если вы хотите включить твик \"Полный доступ к файловой системе\", не выключайте и не перезагружайте телефон, если только вы не отключите эту функцию снова!"
+  },
+  "summary": {
+    "en": "Registry editor",
+    "ru": "Редактор реестра"
+  },
+  "creator": "Pasqui industry",
+  "category": "tools"
+}
