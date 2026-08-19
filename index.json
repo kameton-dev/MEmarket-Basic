@@ -1,27 +1,9 @@
 {
   "repo_name": "MEmarket-Basic",
   "creator": "kameton.dev",
-  "last_updated": "08-17-2026",
+  "last_updated": "08-20-2026",
   "format": 1,
   "packages": {
-    "{5c5cb096-2785-48aa-ac68-7b6ce89efcd9}": {
-      "latest_version": "6.0.0.0",
-      "title": "Aito Mobile",
-      "app_type": "silverlight",
-      "app_url": "http://millenniummarket.ru/metadata/8net.aito/",
-      "icon": "icon.png",
-      "summary": "Современный браузер для WindowsPhone 8.1",
-      "category": "tools"
-    },
-    "5a8ecb57-b55a-4b8a-aa41-4425bc27d1d1": {
-      "latest_version": "2.0.0.1",
-      "title": "Opentracks",
-      "app_type": "winrt",
-      "app_url": "http://millenniummarket.ru/metadata/8net.opentracks/",
-      "icon": "icon.png",
-      "summary": "Проигрыватель музыки с API от opetracks",
-      "category": "music+video"
-    },
     "FinalWire.AIDA64": {
       "latest_version": "1.1.1.0",
       "title": "AIDA64",
@@ -34,249 +16,6 @@
       },
       "category": "tools"
     },
-    "AvitoMicro": {
-      "latest_version": "0.1.1.0",
-      "title": "AvitoMicro",
-      "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/avito.micro/",
-      "icon": "icon.png",
-      "summary": "Неофициальный клиент Авито, с микро-функционалом",
-      "category": "business"
-    },
-    "59169Willpowersystems.BlueSkyBrowser": {
-      "latest_version": "2.1805.14.2",
-      "title": "BlueSky Edge",
-      "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/bluesky.browser/",
-      "icon": "icon.png",
-      "summary": "Браузер для Windows 10 Mobile с закосом под десктопный Microsoft Edge",
-      "category": "tools"
-    },
-    "CMDInjector": {
-      "latest_version": "4.0.6.0",
-      "title": "CMD Injector [W10m]",
-      "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/cmd.ing.w10m/",
-      "icon": "icon.png",
-      "summary": {
-        "en": "A command prompt for Windows 10 Mobile.",
-        "ru": "Командная строка для Windows 10 Mobile"
-      },
-      "category": "tools"
-    },
-    "{87611e4e-f9f7-411b-aca9-d24a1e001ab0}": {
-      "latest_version": "1.3.0.0",
-      "title": "CMD Injector [WP8]",
-      "app_type": "silverlight",
-      "app_url": "http://millenniummarket.ru/metadata/cmd.ing.wp8/",
-      "icon": "icon.png",
-      "summary": {
-        "en": "A command prompt for Windows Phone 8.",
-        "ru": "Командная строка для Windows Phone 8"
-      },
-      "category": "tools"
-    },
-    "{27d6a090-50d2-4337-88cb-41d97597757a}": {
-      "latest_version": "0.5.0.0",
-      "title": "CustomPFD Registry Editor + Tweaks",
-      "app_type": "silverlight",
-      "app_url": "http://millenniummarket.ru/metadata/custom.pfd/",
-      "icon": "icon.png",
-      "summary": {
-        "en": "Registry editor",
-        "ru": "Редактор реестра"
-      },
-      "category": "tools"
-    },
-    "Yodo1Ltd.CrossyRoad": {
-      "latest_version": "1.2.0.0",
-      "title": "Crossy Road",
-      "app_type": "winrt",
-      "app_url": "http://millenniummarket.ru/metadata/game.crossyroad/",
-      "icon": "icon.png",
-      "summary": "Аркада, бесконечный раннер",
-      "category": "games"
-    },
-    "ZeptoLabUKLimited.CuttheRope2": {
-      "latest_version": "1.0.0.42",
-      "title": "Cut the Rope 2",
-      "app_type": "winrt",
-      "app_url": "http://millenniummarket.ru/metadata/game.cuttherope2/",
-      "icon": "icon.png",
-      "summary": "Головоломка",
-      "category": "games"
-    },
-    "{67ef3bcb-28e7-427c-a3dc-fa7ac39d2138}": {
-      "latest_version": "1.1.0.0",
-      "title": "Dumb Ways To Die 2: The Games",
-      "app_type": "silverlight",
-      "app_url": "http://millenniummarket.ru/metadata/game.dumbwaystodie2/",
-      "icon": "icon.png",
-      "summary": "Казуал, экшен",
-      "category": "games"
-    },
-    "{881e44b3-dee4-49f8-a132-6fac14248606}": {
-      "latest_version": "1.1.0.0",
-      "title": "Hop!",
-      "app_type": "silverlight",
-      "app_url": "http://millenniummarket.ru/metadata/game.hop/",
-      "icon": "icon.png",
-      "summary": "Казуальный экшен",
-      "category": "games"
-    },
-    "{f3d821cb-4597-4627-ac44-060db92974c1}": {
-      "latest_version": "0.1.0.0",
-      "title": "MEmarket Silverlight",
-      "app_type": "silverlight",
-      "app_url": "http://millenniummarket.ru/metadata/me.market.silverlight/",
-      "icon": "icon.png",
-      "summary": {
-        "en": "All WP8.1 client updates are here",
-        "ru": "Все обновления клиента WP8.1 тут"
-      },
-      "category": "store",
-      "banner": "banner.png"
-    },
-    "ceb29f5e-5f0c-4143-af8d-7f08bc26b4de": {
-      "latest_version": "0.2.0.0",
-      "title": "MEmarket UWP",
-      "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/me.market.uwp/",
-      "icon": "icon.png",
-      "summary": {
-        "en": "All W10M client updates are here",
-        "ru": "Все обновления клиента W10M тут"
-      },
-      "category": "store",
-      "banner": "banner.png"
-    },
-    "Microsoft.AzureAuthenticator": {
-      "latest_version": "6.0.20.0",
-      "title": "Microsoft Authenticator",
-      "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/microslop.auth/",
-      "icon": "icon.png",
-      "summary": {
-        "en": "Two-step authentication (2FA) and secure passwordless login app",
-        "ru": "Приложение двухэтапной аутентификации (2FA) и безопасного входа без пароля"
-      },
-      "category": "tools"
-    },
-    "c6b6e6cf-e70c-4bfb-a820-40a4333c17d9": {
-      "latest_version": "1.0.1.0",
-      "title": "OneDrive",
-      "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/microslop.onedrive/",
-      "icon": "icon.png",
-      "summary": "Сторонний клиент OneDrive",
-      "category": "tools"
-    },
-    "d9513957-2da6-4110-8607-b5d1d120a347": {
-      "latest_version": "1.0.0.0",
-      "title": "outlook",
-      "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/microslop.outlook/",
-      "icon": "icon.png",
-      "summary": "Сторонний клиент эл. почты",
-      "category": "tools"
-    },
-    "Microsoft.WindowsStore": {
-      "latest_version": "11805.1001.42.0",
-      "title": "Microsoft Store",
-      "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/microslop.store.fix/",
-      "icon": "icon.png",
-      "summary": {
-        "en": "Fixed original Store",
-        "ru": "Работающий ориг стор"
-      },
-      "category": "store"
-    },
-    "Microsoft.Todos": {
-      "latest_version": "1.48.21892.0",
-      "title": "Microsoft TODO",
-      "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/microslop.todo/",
-      "icon": "icon.png",
-      "summary": {
-        "en": "TODO app",
-        "ru": "Приложение - планировщик"
-      },
-      "category": "livestyle"
-    },
-    "Microsoft.Office.Excel": {
-      "latest_version": "16002.11901.20160.0",
-      "title": "Excel Mobile",
-      "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/office.excel/",
-      "icon": "icon.png",
-      "summary": "Excel для Windows 10 Mobile",
-      "category": "business",
-      "banner": "banner.jpg"
-    },
-    "Microsoft.Office.OneNote": {
-      "latest_version": "16002.11629.20028.0",
-      "title": "OneNote",
-      "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/office.onenote/",
-      "icon": "images\\OneNoteAppList.png",
-      "summary": {
-        "en": "Original OneNote app",
-        "ru": "Оригинальное приложение OneNote"
-      },
-      "category": "business",
-      "banner": "banner.jpg"
-    },
-    "Microsoft.Office.PowerPoint": {
-      "latest_version": "16002.11901.20160.0",
-      "title": "PowerPoint Mobile",
-      "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/office.powerpoint/",
-      "icon": "icon.png",
-      "summary": "PowerPoint для Windows 10 Mobile",
-      "category": "business",
-      "banner": "banner.jpg"
-    },
-    "Microsoft.Office.Word": {
-      "latest_version": "16002.11901.20160.0",
-      "title": "Word Mobile",
-      "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/office.word/",
-      "icon": "icon.png",
-      "summary": "Word для Windows 10 Mobile",
-      "category": "business",
-      "banner": "banner.jpg"
-    },
-    "{91a39795-a77f-4868-b96d-2090c829f068}": {
-      "latest_version": "1.0.0.0",
-      "title": "SimpleDictaphone",
-      "app_type": "silverlight",
-      "app_url": "http://millenniummarket.ru/metadata/simple.dicta/",
-      "icon": "icon.png",
-      "summary": "Приложение диктафона с поддержкой сохранения записей",
-      "category": "tools",
-      "banner": "banner.png"
-    },
-    "{958aab8a-b108-4c2e-8c87-deb9d0c5c640}": {
-      "latest_version": "1.0.0.0",
-      "title": "SimpleNotes",
-      "app_type": "silverlight",
-      "app_url": "http://millenniummarket.ru/metadata/simple.notes/",
-      "icon": "icon.png",
-      "summary": "Простое приложение заметок",
-      "category": "tools",
-      "banner": "banner.png"
-    },
-    "{f8c2cbc1-7161-4f8f-a105-17b0a2a95613}": {
-      "latest_version": "1.0.0.0",
-      "title": "SimpleTasks",
-      "app_type": "silverlight",
-      "app_url": "http://millenniummarket.ru/metadata/simple.tasks/",
-      "icon": "icon.png",
-      "summary": "Простая напоминалка для планов и задач",
-      "category": "tools",
-      "banner": "banner.png"
-    },
     "{47119617-2ee7-4b8e-ae3f-9a661b646499}": {
       "latest_version": "7.4.0.0",
       "title": "T-Translator",
@@ -284,18 +23,6 @@
       "app_url": "http://millenniummarket.ru/metadata/t.translator/",
       "icon": "icon.png",
       "summary": "Переводчик использующий Google Translate API.",
-      "category": "tools"
-    },
-    "{70ae99d8-5ef7-4c8f-b7f7-d47a56347026}": {
-      "latest_version": "2.0.0.2",
-      "title": "ToolKit Pro",
-      "app_type": "silverlight",
-      "app_url": "http://millenniummarket.ru/metadata/toolkit.pro/",
-      "icon": "icon.png",
-      "summary": {
-        "en": "Cool app",
-        "ru": "Прикольная штука"
-      },
       "category": "tools"
     },
     "49197Wirdschon.UnigramMobile": {
@@ -311,15 +38,52 @@
       "category": "social",
       "banner": "banner.jpg"
     },
-    "{1c4bd564-5426-417b-a5a0-e141abe6f858}": {
-      "latest_version": "5.27",
-      "title": "VK Patched",
-      "app_type": "silverlight",
-      "app_url": "http://millenniummarket.ru/metadata/vk.patched/",
+    "Microsoft.AzureAuthenticator": {
+      "latest_version": "6.0.20.0",
+      "title": "Microsoft Authenticator",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/microslop.auth/",
       "icon": "icon.png",
-      "summary": "Пропатченный клиент VK для Windows Phone 8.1",
-      "category": "social",
+      "summary": {
+        "en": "Two-step authentication (2FA) and secure passwordless login app",
+        "ru": "Приложение двухэтапной аутентификации (2FA) и безопасного входа без пароля"
+      },
+      "category": "tools"
+    },
+    "Microsoft.Office.OneNote": {
+      "latest_version": "16002.11629.20028.0",
+      "title": "OneNote",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/office.onenote/",
+      "icon": "images\\OneNoteAppList.png",
+      "summary": {
+        "en": "Original OneNote app",
+        "ru": "Оригинальное приложение OneNote"
+      },
+      "category": "business",
+      "banner": "banner.jpg"
+    },
+    "{958aab8a-b108-4c2e-8c87-deb9d0c5c640}": {
+      "latest_version": "1.0.0.0",
+      "title": "SimpleNotes",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/simple.notes/",
+      "icon": "icon.png",
+      "summary": "Простое приложение заметок",
+      "category": "tools",
       "banner": "banner.png"
+    },
+    "CMDInjector": {
+      "latest_version": "4.0.6.0",
+      "title": "CMD Injector [W10m]",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/cmd.ing.w10m/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "A command prompt for Windows 10 Mobile.",
+        "ru": "Командная строка для Windows 10 Mobile"
+      },
+      "category": "tools"
     },
     "VideoLabs.VLCforWindowsPhone": {
       "latest_version": "1.8.4.0",
@@ -333,13 +97,45 @@
       },
       "category": "music+video"
     },
-    "wut-mini-c6a2": {
-      "latest_version": "1.5.1.0",
-      "title": "WUT Mini",
-      "app_type": "uwp",
-      "app_url": "http://millenniummarket.ru/metadata/wut.mini/",
+    "{f8c2cbc1-7161-4f8f-a105-17b0a2a95613}": {
+      "latest_version": "1.0.0.0",
+      "title": "SimpleTasks",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/simple.tasks/",
       "icon": "icon.png",
-      "summary": "Windows Universal Tool",
+      "summary": "Простая напоминалка для планов и задач",
+      "category": "tools",
+      "banner": "banner.png"
+    },
+    "c6b6e6cf-e70c-4bfb-a820-40a4333c17d9": {
+      "latest_version": "1.0.1.0",
+      "title": "OneDrive",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/microslop.onedrive/",
+      "icon": "icon.png",
+      "summary": "Сторонний клиент OneDrive",
+      "category": "tools"
+    },
+    "Microsoft.Office.Word": {
+      "latest_version": "16002.11901.20160.0",
+      "title": "Word Mobile",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/office.word/",
+      "icon": "icon.png",
+      "summary": "Word для Windows 10 Mobile",
+      "category": "business",
+      "banner": "banner.jpg"
+    },
+    "ceb29f5e-5f0c-4143-af8d-7f08bc26b4de": {
+      "latest_version": "0.2.0.0",
+      "title": "MEmarket UWP",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/me.market.uwp/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "All W10M client updates are here",
+        "ru": "Все обновления клиента W10M тут"
+      },
       "category": "store",
       "banner": "banner.png"
     },
@@ -367,6 +163,219 @@
         "ru": "Приложение прогноза погоды"
       },
       "category": "news+weather",
+      "banner": "banner.jpg"
+    },
+    "Microsoft.Todos": {
+      "latest_version": "1.48.21892.0",
+      "title": "Microsoft TODO",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/microslop.todo/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "TODO app",
+        "ru": "Приложение - планировщик"
+      },
+      "category": "livestyle"
+    },
+    "{f3d821cb-4597-4627-ac44-060db92974c1}": {
+      "latest_version": "0.1.0.0",
+      "title": "MEmarket Silverlight",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/me.market.silverlight/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "All WP8.1 client updates are here",
+        "ru": "Все обновления клиента WP8.1 тут"
+      },
+      "category": "store",
+      "banner": "banner.png"
+    },
+    "{91a39795-a77f-4868-b96d-2090c829f068}": {
+      "latest_version": "1.0.0.0",
+      "title": "SimpleDictaphone",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/simple.dicta/",
+      "icon": "icon.png",
+      "summary": "Приложение диктафона с поддержкой сохранения записей",
+      "category": "tools",
+      "banner": "banner.png"
+    },
+    "{67ef3bcb-28e7-427c-a3dc-fa7ac39d2138}": {
+      "latest_version": "1.1.0.0",
+      "title": "Dumb Ways To Die 2: The Games",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/game.dumbwaystodie2/",
+      "icon": "icon.png",
+      "summary": "Казуал, экшен",
+      "category": "games"
+    },
+    "ZeptoLabUKLimited.CuttheRope2": {
+      "latest_version": "1.0.0.42",
+      "title": "Cut the Rope 2",
+      "app_type": "winrt",
+      "app_url": "http://millenniummarket.ru/metadata/game.cuttherope2/",
+      "icon": "icon.png",
+      "summary": "Головоломка",
+      "category": "games"
+    },
+    "{5c5cb096-2785-48aa-ac68-7b6ce89efcd9}": {
+      "latest_version": "6.0.0.0",
+      "title": "Aito Mobile",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/8net.aito/",
+      "icon": "icon.png",
+      "summary": "Современный браузер для WindowsPhone 8.1",
+      "category": "tools"
+    },
+    "{1c4bd564-5426-417b-a5a0-e141abe6f858}": {
+      "latest_version": "5.27",
+      "title": "VK Patched",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/vk.patched/",
+      "icon": "icon.png",
+      "summary": "Пропатченный клиент VK для Windows Phone 8.1",
+      "category": "social",
+      "banner": "banner.png"
+    },
+    "5a8ecb57-b55a-4b8a-aa41-4425bc27d1d1": {
+      "latest_version": "2.0.0.1",
+      "title": "Opentracks",
+      "app_type": "winrt",
+      "app_url": "http://millenniummarket.ru/metadata/8net.opentracks/",
+      "icon": "icon.png",
+      "summary": "Проигрыватель музыки с API от opetracks",
+      "category": "music+video"
+    },
+    "{881e44b3-dee4-49f8-a132-6fac14248606}": {
+      "latest_version": "1.1.0.0",
+      "title": "Hop!",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/game.hop/",
+      "icon": "icon.png",
+      "summary": "Казуальный экшен",
+      "category": "games"
+    },
+    "59169Willpowersystems.BlueSkyBrowser": {
+      "latest_version": "2.1805.14.2",
+      "title": "BlueSky Edge",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/bluesky.browser/",
+      "icon": "icon.png",
+      "summary": "Браузер для Windows 10 Mobile с закосом под десктопный Microsoft Edge",
+      "category": "tools"
+    },
+    "wut-mini-c6a2": {
+      "latest_version": "1.5.1.0",
+      "title": "WUT Mini",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/wut.mini/",
+      "icon": "icon.png",
+      "summary": "Windows Universal Tool",
+      "category": "store",
+      "banner": "banner.png"
+    },
+    "{87611e4e-f9f7-411b-aca9-d24a1e001ab0}": {
+      "latest_version": "1.3.0.0",
+      "title": "CMD Injector [WP8]",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/cmd.ing.wp8/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "A command prompt for Windows Phone 8.",
+        "ru": "Командная строка для Windows Phone 8"
+      },
+      "category": "tools"
+    },
+    "{70ae99d8-5ef7-4c8f-b7f7-d47a56347026}": {
+      "latest_version": "2.0.0.2",
+      "title": "ToolKit Pro",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/toolkit.pro/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Cool app",
+        "ru": "Прикольная штука"
+      },
+      "category": "tools"
+    },
+    "AvitoMicro": {
+      "latest_version": "0.1.1.0",
+      "title": "AvitoMicro",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/avito.micro/",
+      "icon": "icon.png",
+      "summary": "Неофициальный клиент Авито, с микро-функционалом",
+      "category": "business"
+    },
+    "{27d6a090-50d2-4337-88cb-41d97597757a}": {
+      "latest_version": "0.5.0.0",
+      "title": "CustomPFD Registry Editor + Tweaks",
+      "app_type": "silverlight",
+      "app_url": "http://millenniummarket.ru/metadata/custom.pfd/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Registry editor",
+        "ru": "Редактор реестра"
+      },
+      "category": "tools"
+    },
+    "Yodo1Ltd.CrossyRoad": {
+      "latest_version": "1.2.0.0",
+      "title": "Crossy Road",
+      "app_type": "winrt",
+      "app_url": "http://millenniummarket.ru/metadata/game.crossyroad/",
+      "icon": "icon.png",
+      "summary": "Аркада, бесконечный раннер",
+      "category": "games"
+    },
+    "Microsoft.WindowsStore": {
+      "latest_version": "11805.1001.42.0",
+      "title": "Microsoft Store",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/microslop.store.fix/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "Fixed original Store",
+        "ru": "Работающий ориг стор"
+      },
+      "category": "store"
+    },
+    "Microsoft.Office.Excel": {
+      "latest_version": "16002.11901.20160.0",
+      "title": "Excel Mobile",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/office.excel/",
+      "icon": "icon.png",
+      "summary": "Excel для Windows 10 Mobile",
+      "category": "business",
+      "banner": "banner.jpg"
+    },
+    "d9513957-2da6-4110-8607-b5d1d120a347": {
+      "latest_version": "1.0.0.0",
+      "title": "outlook",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/microslop.outlook/",
+      "icon": "icon.png",
+      "summary": "Сторонний клиент эл. почты",
+      "category": "tools"
+    },
+    "Microsoft.MinecraftUWP": {
+      "latest_version": "1.16.4002.0",
+      "title": "Minecraft for Windows 10",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/Microsoft.MinecraftUWP/",
+      "icon": "Frame 1187517711.png",
+      "summary": "wwwwww",
+      "category": "games"
+    },
+    "Microsoft.Office.PowerPoint": {
+      "latest_version": "16002.11901.20160.0",
+      "title": "PowerPoint Mobile",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/office.powerpoint/",
+      "icon": "icon.png",
+      "summary": "PowerPoint для Windows 10 Mobile",
+      "category": "business",
       "banner": "banner.jpg"
     }
   }

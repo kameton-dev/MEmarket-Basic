@@ -1,0 +1,25 @@
+{
+  "id": "Microsoft.MinecraftUWP",
+  "title": "Minecraft for Windows 10",
+  "icon": "Frame 1187517711.png",
+  "capabilities": [
+    "internetClientServer",
+    "privateNetworkClientServer",
+    "0b6cce76-2100-4c02-919e-01555ecba665"
+  ],
+  "minimum_version": "10.0.10000.0",
+  "app_type": "uwp",
+  "versions": [
+    {
+      "version": "1.16.4002.0",
+      "app_file": "30cc1755fd980ee9ad336de45f196d50.appx"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/Microsoft.MinecraftUWP/",
+  "description": "11111111111",
+  "name": "MCSHORTCUT",
+  "developer": "gegege",
+  "category": "games",
+  "package": "30cc1755fd980ee9ad336de45f196d50.appx",
+  "summary": "wwwwww"
+}
