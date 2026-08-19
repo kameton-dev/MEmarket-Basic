@@ -1,0 +1,25 @@
+{
+  "id": "Zerqle.UniversalSend",
+  "title": "UniversalSend",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClient",
+    "internetClientServer",
+    "privateNetworkClientServer"
+  ],
+  "minimum_version": "10.0.15063.0",
+  "app_type": "uwp",
+  "versions": [
+    {
+      "version": "0.9.0.0",
+      "app_file": "UniversalSend_0.9.0.0_ARM.appx"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/Zerqle.UniversalSend/",
+  "description": "ууууу",
+  "name": "UniversalSend",
+  "developer": "не знаю",
+  "category": "entertainment",
+  "package": "UniversalSend_0.9.0.0_ARM.appx",
+  "summary": "ууууу"
+}

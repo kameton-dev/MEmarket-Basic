@@ -16,6 +16,15 @@
       },
       "category": "tools"
     },
+    "Zerqle.UniversalSend": {
+      "latest_version": "0.9.0.0",
+      "title": "UniversalSend",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/Zerqle.UniversalSend/",
+      "icon": "icon.png",
+      "summary": "ууууу",
+      "category": "entertainment"
+    },
     "{47119617-2ee7-4b8e-ae3f-9a661b646499}": {
       "latest_version": "7.4.0.0",
       "title": "T-Translator",
