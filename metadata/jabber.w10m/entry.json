@@ -1,0 +1,29 @@
+{
+  "id": "uwpx-w10m",
+  "title": "UWPX Jabber",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClient",
+    "privateNetworkClientServer",
+    "picturesLibrary",
+    "backgroundMediaPlayback",
+    "webcam",
+    "location"
+  ],
+  "minimum_version": "10.0.15063.0",
+  "app_type": "uwp",
+  "versions": [
+    {
+      "version": "1.0.67.0",
+      "app_file": "UWP.XMPP.Client_1.0.67.0_ARM.appx"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/jabber.w10m/",
+  "description": "An XMPP / Jabber client for **Windows 10 Mobile**, based on\n[UWPX](https://github.com/UWPX/UWPX-Client).\n\nThis repository is a Windows 10 Mobile revival of the UWPX client, built from the\nlast version of the upstream project that predates WinUI — the point at which the\napp was still pure native UWP XAML and could target Windows 10 Mobile.\n\n> **Forked from upstream UWPX/UWPX-Client at commit\n> [`af681a7e`](https://github.com/UWPX/UWPX-Client/commit/af681a7eb4197127a7f6b1648771cae3733d298c)**\n> — *\"Added a Windows Logging Channel for logging\"* (2018-10-24).\n>\n> This is deliberately **the last commit compatible with Windows 10 Mobile**. The\n> next upstream commit,\n> [`897913aa`](https://github.com/UWPX/UWPX-Client/commit/897913aa08150b194e6befd9bbf0e40343b71973)\n> (2018-10-26), added the `Microsoft.UI.Xaml` (Windows UI Library) package. WinUI 2.x\n> controls have a runtime floor of Windows 10 build 16299, which is above the highest\n> build any Windows 10 Mobile device can run — so every later upstream commit is\n> unusable on the phone. Starting from `af681a7e` gives the most feature-complete\n> UWPX code that is still WinUI-free and phone-capable.\n\nChat with all your XMPP contacts.\n\n**UWPX is a secure and Open Source XMPP app.** It implements the E**x**tensible\n**M**essaging and **P**resence **P**rotocol ([XMPP](https://xmpp.org/)). It is still\nin ALPHA state, so expect occasional crashes and unexpected behavior.\n\n---\n\n## Windows 10 Mobile scope\n\n- **Windows 10 Mobile.** Targets phone builds **1703 (10.0.15063)** and the Fall\n  Creators Update mobile line **1709 (last W10M build 10.0.15254)**. For desktop\n  Windows 10, use upstream [UWPX](https://github.com/UWPX/UWPX-Client) instead.\n- **ARM.** Windows 10 Mobile devices are ARM, so this is built and packaged for ARM.\n\n## Installation (build it yourself):\n1. Install [Visual Studio 2017](https://www.visualstudio.com/de/downloads) with:\n   - the **C++ (v141) Universal Windows Platform tools**, and\n   - the **10.0.15063** and **10.0.16299** Windows 10 SDKs.\n2. Clone the repo and open the solution in Visual Studio 2017.\n3. Set the configuration to **Release / ARM**.\n4. Build. To produce a sideload package: **Project -> Store -> Create App Packages ->\n   Sideloading -> ARM / Release**.\n5. To build from source you need your own signing certificate — create one via\n   `Package.appxmanifest -> Packaging -> Choose Certificate -> Create`.\n6. Install the resulting `.appx` on a developer-unlocked Windows 10 Mobile device.\n   [Here](https://docs.microsoft.com/en-us/windows/uwp/get-started/enable-your-device-for-development)\n   is more on enabling developer mode and sideloading UWP apps.\n\n## References:\nThis project wouldn't be possible without the great work of all those people working\non the libraries used by UWPX.\n[Here](https://uwpx.org/about/) you can find a list of all libraries and other\nreferences used for UWPX development.\n\n## Credits\nAll application code is by the upstream [UWPX](https://github.com/UWPX/UWPX-Client)\nauthors. This repository only backports/retargets that work to Windows 10 Mobile.\n\n--- \n\n### See also:\n\n- [4PDA](https://4pda.to/forum/index.php?showtopic=1124542) \n- [GitHub](https://github.com/Symnok/uwpx-jabber/tree/main)",
+  "summary": {
+    "en": "Jabber Client for W10M",
+    "ru": "Клиент Jabber для  W10M"
+  },
+  "creator": "Symnok",
+  "category": "social"
+}

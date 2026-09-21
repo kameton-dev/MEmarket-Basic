@@ -1,0 +1,26 @@
+{
+  "id": "{e7183dae-4895-4fab-ae6d-f36497598d48}",
+  "title": "JabberWP",
+  "icon": "icon.png",
+  "capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_LOCATION",
+    "ID_CAP_MEDIALIB_PHOTO",
+    "ID_CAP_ISV_CAMERA"
+  ],
+  "app_type": "silverlight",
+  "versions": [
+    {
+      "version": "1.0.1.0",
+      "app_file": "JabberWP_Release_ARM_1.0.1.xap"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/jabber.wp8/",
+  "description": "An XMPP (Jabber) chat client for **Windows Phone 8.1**, written against the\n**Silverlight 8.1** app model.\n\nTested against xabber.org, talking to Conversations on Android and to UWPX on\nWindows 10 Mobile.\n\n## What works\n\n- Connect: TCP, STARTTLS, SASL PLAIN, resource binding, legacy session\n- Roster and live presence, with an availability dot per contact\n- Send and receive chat messages\n- Send pictures (from the library or the camera) via XEP-0363 HTTP upload\n- Received image links render inline; any link in a message is tappable\n- Presence subscriptions in both directions: accept/decline incoming requests, and\n  add a contact (which sends one)\n- Rename a contact by long-pressing it — a server-side roster rename, so it follows\n  the account to other clients\n- Toast notifications for messages that arrive while the app is in the background;\n  tapping one opens that conversation\n- Keeps running in the background (see below), plus a periodic agent that checks for\n  messages when the app is not running at all\n- Editable account, and a settings switch to turn background mode off\n\n## Not implemented\n\n- **No end-to-end encryption.** The connection is TLS-protected; message content is\n  not encrypted. No OMEMO.\n- No group chat (MUC)\n- **Message history is in memory only** — closing the app loses the conversation.\n  The roster survives; the messages do not.\n- No account backup/export, no contact removal, single account only\n\n## Things worth knowing before changing this\n\n**Stanza ids must be unique across sessions, not just within one.** `NextId()` uses a\nrandom per-connection prefix plus a counter. It originally used a bare counter, so the\nthird message of every session was `jw3` — and receivers that key stored messages on\nthe sender's stanza id (UWPX uses id + chat id as a primary key, written with\n`InsertOrReplace`) silently *overwrote* an older message instead of adding a new one.\nThe far end stopped showing new messages while notifications still arrived.\n\n**The stream restarts after STARTTLS and after SASL.** Each restart is a brand new XML\ndocument and needs a fresh `DataReader`/`DataWriter`; the parser buffer is reset too.\nGetting this wrong is the usual reason a hand-written XMPP client hangs after auth.\n\n**The stream parser is hand-written** because an XMPP session is one XML document that\nnever ends, so `XDocument.Load` would block forever. It splits on tag boundaries,\nrespecting quoted attributes, and treats the unclosed `<stream:stream>` header as a\nspecial case. Each stanza is then parsed inside a synthetic root that declares the\n`stream` and `jabber:client` namespaces, without which fragments like\n`<stream:features>` do not parse.\n\n**Toasts never appear while the app is in the foreground** — the platform suppresses an\napp's own toasts. They are a background feature, so testing them means backgrounding\nthe app.\n\n**A second resource confuses some clients.** The agent's short-lived `-bg` session\nbroadcasts available then unavailable on every run. Clients that collapse presence to\nthe bare JID and take the last stanza will show this account as *offline* while the\nforeground session is still connected. That was a bug in UWPX (since fixed there by\ntracking presence per resource), but other clients may behave the same way.\n\n**Choosers must be constructed in the page constructor.** `PhotoChooserTask` takes the\napp away and the page can be recreated before the result arrives, so a handler attached\nlater never fires.\n\n**Back-stack handling is deliberate.** `ContactsPage` clears the back stack on arrival,\nso it is always the app's root: BACK there leaves the app rather than returning to the\nlogin page. `ChatPage` overrides `OnBackKeyPress` and redirects to the contact list when\nit has nothing to go back to, which is the case when a toast deep-linked straight into\na conversation.\n\n**Accepting a subscription also requests one back.** Subscriptions are one-directional;\nanswering `subscribed` alone would let the contact see you while they stayed\npermanently \"offline\" in your list.\n\n--- \n\n### See also:\n\n- [4PDA]() \n- [GitHub]()",
+  "summary": {
+    "en": "Jabber Client for WP8",
+    "ru": "Клиент Jabber для  WP8"
+  },
+  "creator": "Symnok",
+  "category": "social"
+}
