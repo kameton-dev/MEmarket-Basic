@@ -1,0 +1,26 @@
+{
+  "id": "DeltaChatWP81",
+  "title": "DeltaChatWP81",
+  "icon": "icon.png",
+  "capabilities": [
+    "internetClientServer",
+    "picturesLibrary",
+    "webcam",
+    "microphone"
+  ],
+  "app_type": "winrt",
+  "versions": [
+    {
+      "version": "1.0.21.0",
+      "app_file": "DeltaChat.WP81_1.0.21.0_ARM_Debug.appx"
+    }
+  ],
+  "app_url": "http://millenniummarket.ru/metadata/delta.chat.wp8/",
+  "description": "DeltaChat клиент для WP8.1.\n\nЕсть фоновый режим (проверка новых сообщений раз в 15 минут).\nУведомления в фоновом режиме работают.\n\nПоддерживается пересылка изображений, произвольных файлов и голосовых вложений.\n\nВозможности:\n\n    WP8.1 телефон как основное устройство\n    WP8.1 телефон как дополнительное устройство (secondary account) не поддерживается\n    Фоновый режим (раз в 15 минут или постоянный)\n    Уведомления\n    Поддержка изображений и произвольных файлов\n    Поддержка голосовых вложений / voice attachments\n    Поддерживаемые языки: английский, русский, украинский, иврит\n\n### Доп. ссылки\n\n- [4PDA](https://4pda.to/forum/index.php?showtopic=1126432)",
+  "summary": {
+    "en": "DeltaChat client for WP8.1",
+    "ru": "Клиент DeltaChat для  WP8.1"
+  },
+  "creator": "Symnok",
+  "category": "social"
+}

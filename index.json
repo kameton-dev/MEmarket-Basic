@@ -1,7 +1,7 @@
 {
   "repo_name": "MEmarket-Basic",
   "creator": "kameton.dev",
-  "last_updated": "09-21-2026",
+  "last_updated": "09-22-2026",
   "format": 1,
   "packages": {
     "{5c5cb096-2785-48aa-ac68-7b6ce89efcd9}": {
@@ -88,6 +88,30 @@
       },
       "category": "tools"
     },
+    "DeltaChatW10M": {
+      "latest_version": "1.0.22.0",
+      "title": "DeltaChatW10M",
+      "app_type": "uwp",
+      "app_url": "http://millenniummarket.ru/metadata/delta.chat.w10m/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "DeltaChat Client for W10M",
+        "ru": "Клиент DeltaChat для  W10M"
+      },
+      "category": "social"
+    },
+    "DeltaChatWP81": {
+      "latest_version": "1.0.21.0",
+      "title": "DeltaChatWP81",
+      "app_type": "winrt",
+      "app_url": "http://millenniummarket.ru/metadata/delta.chat.wp8/",
+      "icon": "icon.png",
+      "summary": {
+        "en": "DeltaChat client for WP8.1",
+        "ru": "Клиент DeltaChat для  WP8.1"
+      },
+      "category": "social"
+    },
     "Yodo1Ltd.CrossyRoad": {
       "latest_version": "1.2.0.0",
       "title": "Crossy Road",
@@ -129,12 +153,7 @@
       "title": "UWPX Jabber",
       "app_type": "uwp",
       "app_url": "http://millenniummarket.ru/metadata/jabber.w10m/",
-      "icon": "icon.png",
-      "summary": {
-        "en": "Jabber Client for W10M",
-        "ru": "Клиент Jabber для  W10M"
-      },
-      "category": "social"
+      "icon": "icon.png"
     },
     "{e7183dae-4895-4fab-ae6d-f36497598d48}": {
       "latest_version": "1.0.1.0",
