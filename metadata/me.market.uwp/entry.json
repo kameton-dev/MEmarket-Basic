@@ -9,8 +9,12 @@
   "app_type": "uwp",
   "versions": [
     {
-      "version": "0.2.0.0",
+      "version": "0.2.1.0",
       "app_file": "MEmarket-UWP_latest_ARM.appx"
+    },
+    {
+      "version": "0.2.0.0",
+      "app_file": "MEmarket-UWP_0.2.0.0_ARM.appx"
     },
     {
       "version": "0.1.2.0",
