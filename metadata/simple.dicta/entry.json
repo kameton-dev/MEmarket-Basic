@@ -13,13 +13,20 @@
   "app_type": "silverlight",
   "versions": [
     {
+      "version": "1.3.0.0",
+      "app_file": "SimpleDictaphone_Release_AnyCPU.xap"
+    },
+    {
       "version": "1.0.0.0",
       "app_file": "SimpleDictaphone.xap"
     }
   ],
   "app_url": "http://millenniummarket.ru/metadata/simple.dicta/",
   "banner": "banner.png",
-  "description": "Простое приложение для записи звука. Можно прослушивать аудиофайлы в приложении, и, при надобности, сохранять их в папку телефона (Music/SimpleDictaphone)",
+  "description": {
+    "en": "**SimpleDictaphone** - A simple sound recording app. You can listen to audio files within the app and, if needed, save them to a folder on your phone. #SimpleDictaphone\n\n## Features\n\n- Record voice notes to WAV files (16-bit PCM, mono, 16 kHz)\n- Recordings list grouped by date (today / yesterday / older)\n- Playback with progress bar, elapsed / total time, pause and rewind\n- Rename and delete recordings\n- Export a recording to `Music/SimpleDictaphone` so it shows up in the phone's music library\n\n## Requirements\n\n- Windows Phone 8.1 device or emulator\n\n## Storage\n\nRecordings are stored in the app's isolated storage. The **Save** button copies a recording to `Music/SimpleDictaphone` on the phone.\n\n## License\n\nThis project is distributed under the [**GNU General Public License v3.0**](LICENSE).",
+    "ru": "**SimpleDictaphone** - простое приложение для записи звука. Можно прослушивать аудиофайлы в приложении, и, при надобности, сохранять их в папку телефона\n\n## Возможности\n\n- Запись голоса в WAV (16-bit PCM, mono, 16 kHz)\n- Список записей с группировкой по датам (сегодня / вчера / остальные)\n- Воспроизведение: прогресс-бар, текущее и общее время,пауза , перемотка в начало\n- Переименование и удаление записей\n- Сохранение записи в `Music/SimpleDictaphone`, чтобы она появилась в музыке телефона\n\n## Требования\n\n- Устройство или эмулятор с Windows Phone 8.1\n\n## Хранение данных\n\nЗаписи хранятся в изолированном хранилище приложения. Кнопка **Сохранить** копирует запись в `Music/SimpleDictaphone` на телефоне.\n\n## Лицензия\n\nЭтот проект распространяется под лицензией [**GNU General Public License v3.0**](LICENSE)."
+  },
   "summary": "Приложение диктафона с поддержкой сохранения записей",
   "creator": "kameton.dev",
   "category": "tools"
