@@ -1,0 +1,13 @@
+*.xap
+*.appx
+*.appxbundle
+*.cer
+
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.ico
+*.bmp
+
+*.md
